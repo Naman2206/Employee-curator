@@ -1,0 +1,9 @@
+pandas==2.2.3
+numpy==1.26.0
+pyspark==3.5.1
+sqlalchemy==2.0.20
+psycopg2-binary==2.9.6
+jupyterlab==4.3.1
+
+# Optional / dev
+ipython

@@ -1,0 +1,11 @@
+employee_id,full_name,email,salary,salary_band,age,tenure_years,department
+1605,Robert Robinson,steven.robinson@company.com,75000,Mid,50,6.8,IT
+1019,Robert Miller,mary@invalid,35000,Junior,50,4.4,Marketing
+1999,Barbara Robinson,mark.anderson@company.com,95000,Senior,39,7.3,Marketing
+1662,Nancy Thomas,mark.sanchez@company.com,85000,Senior,47,8.5,HR
+1112,Barbara Harris,mary.martin@company.com,75000,Mid,62,2.0,Finance
+1424,Richard Davis,john.harris@company.com,85000,Senior,34,9.8,Operations
+1468,Alice Thomas,anthony.hernandez@company.com,75000,Mid,43,5.5,Operations
+1827,Daniel Smith,robert.hernandez@company.com,105000,Senior,36,5.1,Sales
+1050,Patricia Martin,thomas.lee@company.com,75000,Mid,48,5.7,Finance
+1240,Daniel Robinson,nancy.thomas@company.com,95000,Senior,52,2.3,Engineering

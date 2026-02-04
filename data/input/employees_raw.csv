@@ -1,0 +1,1021 @@
+employee_id,first_name,last_name,email,hire_date,job_title,department,salary,manager_id,address,city,state,zip_code,birth_date,status
+1605,Robert,Robinson,steven.robinson@company.com,2019-04-21,Analyst,IT,75000,,7303 Maple Drive,Denver,,,1975-05-07,Active
+1019,Robert,MILLER,mary@invalid,2021-09-25,Lead,Marketing,35000,2003,4101 Willow Drive,Los Angeles,IL,98914,1975-09-22,On Leave
+1999,Barbara,Robinson,mark.anderson@company.com,2018-10-24,Consultant,Marketing,95000,2002,4755 Maple Rd,Boston,FL,34364,1986-10-26,On Leave
+1662,Nancy,THOMAS,mark.sanchez@company.com,2017-08-11,Lead,HR,85000,2004,7164 Spruce Lane,Seattle,CO,22664,1978-05-31,On Leave
+1112,Barbara,Harris,mary.martin@company.com,2024-02-07,Data Analyst,Finance,75000,,4721 Pine Court,Los Angeles,,54795,1963-02-26,On Leave
+1424,richard,Davis,john.harris@company.com,2016-04-11,Architect,Operations,85000,2004,9711 Birch Drive,Austin,NY,11331,1991-12-03,On Leave
+1468,Alice,Thomas,anthony.hernandez@company.com,2020-08-02,Analyst,Operations,75000,2009,4112 Willow Blvd,Boston,GA,32848,1982-11-05,Inactive
+1827,Daniel,Smith,robert.hernandez@company.com,2020-12-16,Consultant,Sales,105000,2004,8881 Oak Lane,New York,OH,54939,1989-07-02,On Leave
+1050,Patricia,Martin,thomas.lee@company.com,2020-05-17,Software Engineer,Finance,75000,2002,5316 Willow Court,Denver,WA,54113,1977-03-28,Active
+1240,Daniel,Robinson,nancy.thomas@company.com,2023-10-12,Lead,Engineering,95000,2007,2876 Oak Drive,Dallas,NC,27637,1973-03-23,Active
+1360,Linda,HERNANDEZ,david.lewis@company.com,2024-05-11,Data Analyst,Finance,35000,2007,3664 Elm Blvd,Columbus,CO,38715,1998-12-16,On Leave
+1707,Richard,SMITH,daniel.hernandez@company.com,2017-07-06,Consultant,Finance,55000,,6469 Maple Rd,San Francisco,TN,82282,1969-08-22,On Leave
+1750,Mary,THOMAS,jane.williams@company.com,2018-08-13,Lead,HR,105000,2010,3472 Ash Court,San Jose,GA,42020,1968-08-24,Active
+1252,Donald,Lopez,david.wilson@company.com,2023-09-18,Analyst,HR,65000,2002,1937 Maple Lane,Seattle,TN,88361,1999-02-28,Inactive
+1181,karen,Johnson,john.white@company.com,2017-10-21,Software Engineer,Engineering,35000,2003,4414 Main Blvd,Dallas,TN,34403,1993-08-27,Inactive
+1754,jessica,ANDERSON,lisa.sanchez@company.com,2019-03-30,Architect,Marketing,105000,2005,4794 Spruce Court,San Antonio,NY,92997,1992-09-07,Inactive
+1794,Karen,Thomas,charles.martin@company.com,2017-03-15,Analyst,Sales,"$65,000",2005,7156 Cedar Blvd,Jacksonville,CO,41011,1979-05-11,On Leave
+1752,Michael,Harris,robert.harris@company.com,2020-04-05,Developer,IT,45000,,8279 Maple Lane,Los Angeles,GA,42111,1961-06-21,On Leave
+1938,John,BROWN,matthew.anderson@company.com,2024-04-28,Manager,IT,65000,2002,3520 Maple Lane,Charlotte,WA,14609,1998-07-28,Active
+1744,Michael,Martinez,james.rodriguez@company.com,2024-03-28,Developer,Engineering,"$65,000",2007,2666 Elm Drive,Jacksonville,NJ,39583,1971-01-01,Active
+1788,Emma,Anderson,barbara.johnson@company.com,2022-01-19,Architect,Operations,35000,2009,549 Cedar Blvd,Charlotte,,15498,1973-10-13,Active
+1961,Steven,Lewis,emma.martin@company.com,2020-02-04,Software Engineer,Operations,65000,2002,6056 Maple Blvd,Dallas,MA,57745,1988-07-10,On Leave
+1554,Thomas,MARTINEZ,nancy.lee@company.com,2023-10-13,Data Analyst,Engineering,65000,2010,4217 Oak Way,Jacksonville,IN,57341,1988-10-04,On Leave
+1751,Karen,TAYLOR,richard.rodriguez@company.com,2021-06-29,Lead,Analytics,"$105,000",2003,9583 Birch Drive,New York,MO,11071,1966-04-12,Inactive
+1230,Steven,Johnson,sarah.davis@company.com,2018-06-17,Lead,Engineering,"$105,000",2003,7001 Ash St,Indianapolis,OH,74479,1962-01-20,Inactive
+1820,Thomas,Davis,DONALD.LEWIS@COMPANY.COM,2020-12-06,Manager,Operations,45000,2003,9933 Oak Way,San Francisco,OH,37603,1989-09-04,On Leave
+1691,Karen,SMITH,mary.miller@company.com,2016-03-25,Architect,Engineering,65000,2010,8032 Main Court,Boston,IL,40113,1968-06-26,On Leave
+1119,Mark,Jackson,thomas.johnson@company.com,2021-05-27,Lead,IT,95000,2004,6746 Birch Court,San Antonio,CO,26267,1970-12-11,Inactive
+1227,Nancy,Johnson,MARK.WHITE@COMPANY.COM,2022-05-24,Lead,Sales,95000,2003,591 Spruce Rd,New York,NC,44642,1960-05-09,On Leave
+1244,Daniel,RAMIREZ,richard.hernandez@company.com,2021-11-29,Developer,Sales,105000,2008,6587 Oak Drive,San Antonio,VA,72313,1973-08-28,On Leave
+1998,Matthew,Lopez,robert.rodriguez@company.com,2018-08-15,Consultant,Marketing,75000,,7643 Cedar Drive,,VA,77336,1993-11-10,Inactive
+1061,Michael,Williams,patricia@invalid,2023-06-08,Manager,Operations,95000,2009,3461 Willow Rd,San Diego,TN,87008,1978-02-01,Active
+1759,Donald,SANCHEZ,steven.clark@company.com,2016-07-03,Consultant,Finance,55000,2001,588 Cedar Ave,,IN,12566,1988-03-08,Inactive
+1899,Karen,Williams,linda.williams@company.com,2016-06-09,Lead,Sales,"$45,000",2005,3033 Cedar Lane,San Francisco,WA,37887,1981-03-19,Active
+1526,Thomas,Anderson,lisa.harris@company.com,2023-06-18,Architect,Engineering,65000,2009,3820 Willow Ave,,MO,28704,1961-07-06,Inactive
+1174,matthew,Brown,nancy.lee@company.com,2020-04-02,Manager,Marketing,55000,2002,9524 Ash St,Indianapolis,AZ,22053,1998-03-22,Active
+1677,richard,Harris,mark.johnson@company.com,2020-01-27,Software Engineer,Finance,95000,2009,1850 Elm Way,Houston,OH,,1996-08-18,On Leave
+1519,James,Thompson,alice.smith@company.com,2016-04-02,Data Analyst,Operations,"$75,000",2002,307 Main Rd,Charlotte,IL,71432,1990-10-27,Active
+1552,lisa,Jones,mark.moore@company.com,2021-09-11,Manager,Analytics,95000,2002,2102 Spruce Rd,Seattle,MD,44717,1969-02-17,Active
+1661,Thomas,Rodriguez,michael.hernandez@company.com,2024-02-08,Developer,IT,65000,2004,9476 Main Way,Houston,NY,65171,1964-07-22,On Leave
+1705,richard,Hernandez,alice.williams@company.com,2023-05-28,Data Analyst,Marketing,45000,2009,1239 Willow Lane,Dallas,MD,28128,1992-02-21,Inactive
+1161,Lisa,Jones,robert.smith@company.com,2017-07-08,Manager,Marketing,95000,2006,7185 Main Ave,Denver,NY,14811,1967-07-25,Active
+1454,david,MARTINEZ,richard.harris@company.com,2026-11-30,Software Engineer,Sales,105000,2001,9518 Cedar Ave,New York,MI,57458,1973-09-21,Inactive
+1656,Sarah,Ramirez,KAREN.LOPEZ@COMPANY.COM,2017-03-02,Software Engineer,Finance,55000,2006,6791 Main St,Denver,AZ,12514,1995-10-21,Active
+1334,Barbara,Taylor,THOMAS.HERNANDEZ@COMPANY.COM,2016-12-06,Software Engineer,Engineering,85000,2009,6871 Maple Court,San Francisco,FL,76683,1991-05-26,On Leave
+1283,Patricia,Harris,donald.miller@company.com,2024-02-15,Consultant,Operations,85000,2009,3082 Elm Court,Chicago,VA,51882,1965-12-25,Active
+1562,michael,TAYLOR,lisa@invalid,2017-02-10,Developer,Finance,45000,2008,,Charlotte,PA,39824,1997-12-30,Inactive
+1688,Matthew,Lopez,mark.thompson@company.com,2019-08-08,Consultant,IT,55000,,142 Oak Court,Jacksonville,PA,63437,1983-04-08,Active
+1696,Barbara,Lee,lisa.jones@company.com,2016-05-01,Data Analyst,HR,"$65,000",2008,5644 Birch St,San Francisco,MA,48144,2000-02-09,On Leave
+1743,David,Miller,susan.thomas@company.com,2019-04-17,Consultant,IT,95000,2005,3042 Elm Rd,Phoenix,IN,,1963-02-07,Active
+1621,Barbara,MOORE,sarah.clark@company.com,2016-07-25,Lead,Finance,65000,2006,7315 Cedar Way,Chicago,MD,78072,1993-04-06,On Leave
+1108,Thomas,JOHNSON,susan.taylor@company.com,2017-10-14,Architect,Operations,55000,2006,2362 Oak Blvd,Indianapolis,NC,19683,1997-01-01,Active
+1348,Jennifer,Smith,lisa.ramirez@company.com,2022-07-25,Software Engineer,Analytics,75000,2007,5631 Maple Lane,Austin,OH,84307,1978-03-04,Inactive
+1221,Karen,LEWIS,mark.moore@company.com,2024-07-16,Consultant,Operations,35000,2010,2818 Willow Blvd,Austin,OH,25172,1995-11-16,Inactive
+1877,nancy,Brown,mark.sanchez@company.com,2017-01-24,Data Analyst,Analytics,85000,2010,6941 Spruce Way,Charlotte,MI,72868,1980-07-05,On Leave
+2011,Robert,Thompson,mary.thompson@company.com,2018-04-16,Data Analyst,Operations,45000,2002,6241 Birch Lane,Seattle,IN,79387,1997-02-06,Inactive
+1531,Jessica,Smith,daniel.robinson@company.com,2023-06-27,Consultant,Operations,"$35,000",2001,8851 Ash Court,New York,MA,98792,1995-08-24,On Leave
+1638,Patricia,ANDERSON,robert.thompson@company.com,2017-11-20,Software Engineer,Sales,105000,2002,9236 Elm Drive,Denver,NC,29991,1973-11-10,Active
+1565,Sarah,RAMIREZ,alice.smith@company.com,2020-01-09,Manager,Finance,105000,,9495 Spruce Court,,FL,26749,1977-04-22,On Leave
+1680,jane,Miller,MARY.TAYLOR@COMPANY.COM,2026-10-01,Developer,Finance,75000,2004,1137 Willow Drive,San Antonio,PA,32589,1980-08-20,Active
+1494,nancy,HARRIS,NANCY.THOMAS@COMPANY.COM,2022-10-24,Data Analyst,Analytics,95000,2009,6447 Pine Drive,Phoenix,MI,29292,1970-05-01,On Leave
+1970,James,Martinez,charles@invalid,2023-12-08,Analyst,Analytics,85000,2005,5608 Elm Way,New York,CO,23540,1998-11-09,Inactive
+1639,Steven,Rodriguez,sarah@invalid,2018-01-03,Analyst,Analytics,95000,2002,8823 Maple Way,Phoenix,WA,31905,1993-02-26,Inactive
+1140,Daniel,Miller,jennifer@invalid,2017-06-30,Architect,Analytics,85000,2005,,Los Angeles,TN,72802,1978-01-05,Inactive
+1618,alice,Thompson,jessica.thomas@company.com,2018-12-26,Architect,Engineering,45000,2007,505 Maple Ave,San Diego,TX,29404,1968-03-06,Inactive
+1490,Charles,WILSON,donald.white@company.com,2026-05-05,Analyst,IT,35000,2007,2696 Maple St,Seattle,AZ,36023,1994-04-07,Active
+1997,Sarah,Ramirez,charles.johnson@company.com,2024-06-09,Consultant,HR,75000,2010,5936 Willow St,Fort Worth,CA,12010,1960-11-12,Inactive
+1271,Nancy,Davis,linda.miller@company.com,2023-09-09,Data Analyst,IT,55000,2008,9823 Oak Drive,Phoenix,NJ,96281,1981-09-12,On Leave
+1385,Nancy,Brown,michael.wilson@company.com,2020-06-29,Consultant,Marketing,45000,,6061 Cedar Rd,Dallas,CO,69150,1999-11-04,On Leave
+1664,Jane,Martin,jessica.miller@company.com,2018-12-26,Software Engineer,Finance,65000,2006,,Austin,TX,19006,1985-03-16,Active
+1711,Linda,Brown,SARAH.WILLIAMS@COMPANY.COM,2020-05-16,Consultant,Analytics,55000,2004,5579 Maple Way,Los Angeles,NY,61542,1980-09-27,Active
+1305,anthony,Thompson,richard.lewis@company.com,2024-10-07,Data Analyst,Marketing,45000,2008,2296 Maple Blvd,Charlotte,CA,98795,1982-11-29,Inactive
+1729,Mark,MARTIN,lisa.thompson@company.com,2022-12-11,Manager,Operations,55000,2007,3933 Main Ave,Denver,TN,96177,1968-05-22,On Leave
+1673,Alice,Williams,linda.hernandez@company.com,2021-10-03,Analyst,Analytics,95000,2002,1179 Elm Way,Austin,PA,84845,1983-08-01,Inactive
+1342,anthony,BROWN,linda.martinez@company.com,2017-02-14,Manager,Engineering,75000,2003,2760 Main Way,Jacksonville,VA,78991,1979-11-19,Active
+1821,Jessica,Robinson,james.jackson@company.com,2017-12-18,Software Engineer,Finance,65000,2010,7398 Pine Court,San Francisco,TN,36081,1975-07-17,Inactive
+1945,Sarah,Wilson,steven.moore@company.com,2023-03-28,Software Engineer,Finance,65000,2003,8710 Willow Court,Charlotte,AZ,11942,1966-09-18,Active
+2002,Alice,Smith,nancy@invalid,2018-03-12,Data Analyst,Finance,"$65,000",2001,7295 Ash Court,Boston,OH,10518,1992-07-30,On Leave
+1333,Barbara,Robinson,john.brown@company.com,2019-10-07,Data Analyst,Sales,35000,2007,1164 Elm St,Austin,MI,82015,1980-12-01,Active
+1615,Alice,Smith,emma.jones@company.com,2022-01-26,Analyst,Sales,45000,2002,1606 Elm Way,New York,IN,43897,1979-08-02,Active
+1419,Robert,White,charles.johnson@company.com,2023-05-22,Software Engineer,IT,85000,2010,1067 Ash Drive,Denver,TX,97576,1971-03-22,Inactive
+1609,alice,Lopez,robert.williams@company.com,2023-07-10,Developer,Engineering,65000,,1492 Pine Blvd,San Jose,OH,27601,1975-07-02,On Leave
+1541,Matthew,Thompson,thomas.harris@company.com,2016-03-20,Architect,Finance,95000,2009,3309 Oak Drive,,MA,95463,1977-05-13,Active
+1146,Jessica,Johnson,susan.lewis@company.com,2016-10-25,Developer,Engineering,65000,,2475 Maple Way,Fort Worth,TX,42705,1971-03-30,Inactive
+1654,Anthony,Ramirez,emma@invalid,2021-07-31,Data Analyst,Finance,85000,2004,6027 Pine Lane,Indianapolis,MD,,1998-04-05,Active
+1981,Lisa,Hernandez,jessica.clark@company.com,2023-04-27,Developer,Engineering,105000,2004,,Austin,WA,91989,1987-12-04,Active
+1264,Michael,Hernandez,donald.ramirez@company.com,2017-01-28,Developer,Finance,55000,2001,492 Pine Court,Jacksonville,PA,18461,1999-02-11,Inactive
+1312,Steven,Lewis,thomas.brown@company.com,2023-07-26,Software Engineer,IT,105000,2001,749 Maple Blvd,San Jose,NY,72172,1986-04-18,Active
+1121,Patricia,MILLER,LISA.TAYLOR@COMPANY.COM,2016-04-10,Lead,Finance,75000,2010,668 Pine Lane,New York,NJ,11695,1977-04-24,Active
+1974,Alice,Davis,anthony.jackson@company.com,2016-03-18,Software Engineer,Engineering,35000,,9313 Cedar Court,Austin,IL,37354,1980-06-04,Active
+1561,Lisa,Lopez,ROBERT.ROBINSON@COMPANY.COM,2028-01-01,Architect,Engineering,45000,2002,3239 Main Lane,San Antonio,NC,71573,1970-05-15,Inactive
+1545,Robert,Lee,robert.thomas@company.com,2017-08-10,Data Analyst,Operations,65000,2001,,Boston,MA,93964,1977-03-15,On Leave
+1398,anthony,Clark,anthony.ramirez@company.com,2022-12-04,Software Engineer,IT,65000,2004,950 Elm Court,Phoenix,IN,86235,1997-09-26,Active
+1403,Mark,Jackson,james.miller@company.com,2021-02-28,Developer,Marketing,105000,2006,2203 Ash Rd,San Jose,WA,58658,1989-10-06,Inactive
+1845,Jane,Wilson,steven.lopez@company.com,2016-10-30,Analyst,Analytics,35000,,1374 Oak Way,Los Angeles,IL,26073,1971-04-08,Active
+1259,Matthew,Brown,LISA.RAMIREZ@COMPANY.COM,2024-07-06,Architect,Sales,"$75,000",2009,962 Main Lane,Seattle,FL,95230,1973-07-11,Inactive
+1649,mark,Lopez,michael.thomas@company.com,2021-08-10,Manager,Marketing,75000,2010,2792 Birch Rd,Denver,CA,68629,1995-06-10,Inactive
+1024,David,Johnson,anthony@invalid,2019-02-05,Lead,Analytics,105000,2004,5185 Willow Blvd,Houston,VA,65371,1984-05-26,Active
+1336,Lisa,Lopez,mark@invalid,2020-07-21,Data Analyst,Marketing,65000,2007,7588 Main St,Columbus,FL,62414,1995-11-17,Active
+1463,Donald,LOPEZ,michael.miller@company.com,2017-03-30,Lead,IT,95000,2004,7089 Main Blvd,,MA,70284,1972-05-24,Active
+1491,mark,Robinson,jennifer.martin@company.com,2019-12-31,Data Analyst,Operations,95000,,7331 Elm Rd,Fort Worth,PA,,1982-02-10,Active
+1942,Charles,TAYLOR,david.thompson@company.com,2022-05-11,Consultant,HR,105000,2001,8625 Birch Court,Houston,TX,65187,1966-10-10,Inactive
+1096,nancy,Thompson,mary.hernandez@company.com,2017-02-21,Data Analyst,Marketing,95000,2004,7215 Maple Ave,Dallas,MA,60166,1981-09-05,Active
+1389,Nancy,Johnson,michael@invalid,2022-08-12,Software Engineer,HR,45000,2008,1638 Pine Court,Jacksonville,,98744,1986-10-23,Active
+1500,Mark,Harris,lisa.smith@company.com,2020-07-29,Software Engineer,Engineering,75000,2008,2528 Birch Blvd,San Jose,MO,48436,1965-12-28,Inactive
+1199,richard,Taylor,susan@invalid,2023-12-23,Manager,Marketing,35000,2004,1620 Cedar Lane,,GA,22260,1987-08-18,Inactive
+1731,patricia,MARTIN,emma.thomas@company.com,2016-04-07,Lead,Operations,95000,2008,85 Elm Way,Chicago,VA,56264,1995-11-21,On Leave
+1536,Charles,MOORE,karen@invalid,2017-02-16,Lead,Marketing,65000,2008,8288 Cedar Lane,Jacksonville,GA,50730,1985-06-20,On Leave
+1593,james,WHITE,sarah.lopez@company.com,2018-06-19,Developer,Finance,"$95,000",,4308 Maple Drive,San Francisco,MD,14535,1991-01-16,Active
+1987,Donald,LOPEZ,patricia.williams@company.com,2024-05-03,Data Analyst,HR,65000,2006,8553 Elm Rd,Austin,OH,21541,1967-01-30,Active
+1973,John,ANDERSON,donald.johnson@company.com,2027-05-07,Analyst,Finance,35000,2004,9351 Oak Lane,Philadelphia,,27792,1977-05-07,Inactive
+1658,Matthew,Sanchez,michael.anderson@company.com,2023-05-30,Analyst,Sales,55000,2003,2483 Willow Blvd,Phoenix,MI,78660,1975-12-20,Active
+1697,Anthony,Martinez,daniel.martin@company.com,2027-06-13,Developer,HR,"$55,000",2007,9478 Oak Court,Chicago,AZ,62262,1981-03-10,Active
+1512,Sarah,Sanchez,barbara.lewis@company.com,2021-07-03,Lead,IT,55000,2003,6072 Willow Rd,Philadelphia,VA,55671,1978-12-05,Active
+1229,Barbara,Jackson,JENNIFER.MARTINEZ@COMPANY.COM,2020-05-26,Manager,IT,55000,2010,874 Spruce Blvd,Fort Worth,TX,71662,1996-07-26,On Leave
+1280,susan,Jones,charles.lopez@company.com,2024-07-24,Architect,Sales,75000,2003,2052 Pine Ave,Houston,AZ,23324,1981-12-17,On Leave
+1837,Jennifer,Thomas,john.clark@company.com,2024-11-28,Consultant,Operations,"$105,000",2009,,Fort Worth,,70845,1994-09-29,Inactive
+1749,Nancy,Jones,jennifer.anderson@company.com,2017-03-25,Lead,Finance,45000,2002,2258 Main Blvd,Jacksonville,PA,15888,1984-08-21,Inactive
+1290,daniel,Lewis,karen.white@company.com,2020-09-16,Manager,Operations,75000,2010,730 Birch Drive,Charlotte,PA,,1980-07-26,On Leave
+1458,Lisa,Johnson,linda.johnson@company.com,2018-10-24,Architect,Analytics,"$45,000",2007,3722 Spruce St,Houston,NJ,,1992-11-16,Inactive
+1460,David,ANDERSON,anthony.clark@company.com,2020-03-14,Developer,Marketing,65000,2006,6040 Elm Drive,Boston,VA,92441,1994-10-18,Inactive
+1727,Alice,WHITE,lisa.lee@company.com,2019-08-09,Developer,IT,75000,2004,2313 Maple St,Seattle,IN,65396,1962-01-27,On Leave
+1667,john,Robinson,daniel.brown@company.com,2022-01-21,Software Engineer,Engineering,105000,2001,9924 Willow Rd,Austin,AZ,90515,1980-10-30,Active
+1373,Richard,MARTINEZ,richard.johnson@company.com,2018-08-26,Analyst,Sales,65000,,2588 Ash Way,Phoenix,AZ,16988,1984-08-23,Inactive
+1619,Sarah,Ramirez,james.robinson@company.com,2019-04-21,Lead,IT,65000,2001,895 Oak Rd,Jacksonville,TX,12504,1986-06-30,On Leave
+1311,Jennifer,Thomas,patricia.brown@company.com,2018-03-07,Analyst,Sales,55000,2006,5103 Ash Rd,San Francisco,CO,45371,1967-07-10,On Leave
+1411,jennifer,Robinson,anthony.clark@company.com,2021-03-26,Software Engineer,Engineering,55000,2003,7906 Oak Blvd,Columbus,MD,38955,1981-12-06,On Leave
+1427,Matthew,Martinez,susan.martin@company.com,2024-01-28,Developer,Operations,105000,2008,9254 Oak Way,Houston,PA,63431,1984-06-27,On Leave
+1894,John,Martinez,barbara.jackson@company.com,2016-02-29,Manager,HR,75000,2009,581 Spruce Blvd,San Jose,TN,68218,1997-11-19,Active
+1338,Nancy,Thomas,donald.brown@company.com,2024-01-11,Architect,Engineering,"$105,000",2001,3157 Willow Drive,Philadelphia,MO,29631,1982-09-09,Inactive
+1316,mark,Smith,patricia@invalid,2024-12-07,Analyst,Finance,35000,2004,5041 Main Ave,Columbus,MO,99632,1983-08-15,On Leave
+1422,Sarah,Sanchez,jane.moore@company.com,2016-07-13,Manager,Operations,"$95,000",2007,8369 Birch Way,San Jose,PA,53184,1972-07-06,Active
+1676,Richard,Rodriguez,john.davis@company.com,2024-06-27,Data Analyst,Operations,85000,2010,5678 Willow Rd,Boston,CA,49829,1971-10-21,Inactive
+1644,Patricia,Thomas,karen.rodriguez@company.com,2023-11-04,Manager,Sales,85000,2003,2258 Cedar Drive,San Francisco,WA,85395,1973-10-03,On Leave
+1080,david,TAYLOR,susan.martinez@company.com,2018-07-30,Analyst,Analytics,95000,2001,8845 Spruce Way,Los Angeles,NJ,28451,1987-08-19,Inactive
+1854,Daniel,Moore,mark.lewis@company.com,2017-09-20,Developer,Operations,35000,,3665 Pine Lane,New York,PA,42981,1981-04-24,Inactive
+1391,Jessica,MOORE,jane.hernandez@company.com,2020-01-03,Developer,Analytics,75000,2005,8990 Birch St,San Antonio,AZ,96164,1992-07-19,Inactive
+1273,emma,Clark,emma.thomas@company.com,2018-10-25,Software Engineer,Finance,"$45,000",2003,3200 Main Blvd,San Jose,AZ,,1980-12-28,On Leave
+1251,steven,Lopez,susan.white@company.com,2019-07-31,Lead,Engineering,"$85,000",2010,4265 Cedar Lane,Fort Worth,TN,96847,1970-01-05,On Leave
+1191,Richard,Ramirez,barbara@invalid,2017-09-03,Architect,IT,"$45,000",2003,6068 Pine Rd,Houston,VA,92072,1973-02-03,Active
+1882,james,BROWN,mary.moore@company.com,2020-04-27,Consultant,HR,65000,2004,9557 Main Court,,TX,45710,1977-12-12,Active
+1861,Donald,White,anthony@invalid,2021-04-22,Manager,Operations,45000,2007,6353 Oak Blvd,Columbus,MA,34021,1973-01-19,On Leave
+1781,daniel,Harris,john.smith@company.com,2021-11-27,Architect,Sales,45000,2010,5971 Maple Lane,Los Angeles,OH,83592,1980-05-23,On Leave
+1848,david,TAYLOR,alice.jones@company.com,2024-04-05,Developer,Operations,65000,2010,5062 Pine Way,Jacksonville,VA,84451,1990-07-19,Active
+1599,Sarah,Rodriguez,jane.moore@company.com,2020-08-08,Software Engineer,Finance,45000,,5899 Willow Blvd,San Antonio,TN,47978,1967-07-01,On Leave
+1972,Sarah,CLARK,sarah.johnson@company.com,2022-08-25,Developer,Marketing,95000,2008,1346 Elm Ave,Charlotte,WA,28192,1969-08-16,Active
+1655,Donald,JONES,charles.moore@company.com,2019-08-25,Data Analyst,Analytics,"$85,000",2005,4205 Birch St,San Antonio,FL,43060,1992-10-15,Inactive
+1709,Thomas,Harris,charles@invalid,2023-02-23,Software Engineer,Sales,55000,2008,8741 Maple Way,Indianapolis,IL,91474,1986-02-24,On Leave
+1789,Emma,Williams,nancy.sanchez@company.com,2019-10-17,Manager,HR,"$95,000",2009,,New York,IN,17127,1985-05-02,Active
+1028,james,Lee,mark.lopez@company.com,2018-10-02,Data Analyst,Sales,105000,2001,6652 Main St,Charlotte,,94993,1984-05-14,Inactive
+1742,Mary,Jackson,barbara.thomas@company.com,2019-03-01,Consultant,Analytics,45000,2003,3554 Elm Lane,Philadelphia,NC,69799,1983-03-06,On Leave
+1761,Nancy,Ramirez,richard.moore@company.com,2023-01-12,Architect,Finance,95000,2006,8146 Maple Rd,San Diego,IN,82670,1993-01-12,On Leave
+1098,Robert,Sanchez,jane.miller@company.com,2022-08-26,Lead,Sales,35000,,4882 Oak Lane,Houston,IN,63444,1985-09-15,On Leave
+1012,Alice,Ramirez,charles.rodriguez@company.com,2023-07-18,Data Analyst,HR,85000,2002,4487 Spruce Rd,Fort Worth,MO,58908,1971-10-04,Inactive
+1610,Susan,RAMIREZ,daniel.moore@company.com,2021-08-24,Data Analyst,Operations,85000,2005,8603 Cedar Lane,Houston,,23304,1995-08-06,Inactive
+1930,anthony,Johnson,donald.martinez@company.com,2017-03-30,Manager,HR,45000,2008,9369 Oak Rd,Denver,FL,42792,1965-08-27,Inactive
+1587,barbara,Harris,charles@invalid,2023-04-25,Developer,Engineering,45000,2008,4011 Main Court,Dallas,PA,23230,1990-02-15,Active
+1062,Matthew,Brown,sarah.taylor@company.com,2024-11-21,Developer,Sales,35000,2007,8404 Elm St,Jacksonville,NJ,13811,1984-06-07,On Leave
+2008,thomas,Clark,nancy.martinez@company.com,2017-07-08,Architect,Sales,75000,2010,,Chicago,VA,29166,1974-11-01,Inactive
+1417,emma,Robinson,jane.miller@company.com,2021-03-03,Analyst,HR,45000,2004,5063 Birch Court,Columbus,NJ,75702,1981-12-19,Active
+1782,Alice,Martinez,richard@invalid,2018-06-17,Developer,Engineering,65000,2004,6347 Elm Way,Chicago,,17992,1963-06-19,Active
+1885,Matthew,Harris,donald.rodriguez@company.com,2020-08-19,Lead,HR,65000,2002,7883 Oak Lane,Seattle,NY,29707,1997-12-19,Active
+1008,patricia,Miller,JAMES.JONES@COMPANY.COM,2019-08-17,Manager,Analytics,35000,2007,5148 Ash Court,Philadelphia,IN,34830,1987-03-19,Inactive
+1909,Thomas,Lee,michael.moore@company.com,2017-04-08,Analyst,Operations,"$85,000",2007,2008 Pine Rd,Indianapolis,AZ,,1996-05-22,Active
+1926,Michael,Ramirez,jane.moore@company.com,2023-01-15,Lead,Engineering,35000,2010,7497 Cedar Blvd,San Jose,NC,10198,1970-01-28,Inactive
+1141,Richard,Wilson,mary.martin@company.com,2022-10-23,Lead,HR,75000,2010,9844 Birch Blvd,San Antonio,GA,12025,1979-01-28,On Leave
+1492,Linda,Jackson,linda.lewis@company.com,2022-04-10,Software Engineer,Marketing,95000,2002,97 Elm St,Fort Worth,MI,65254,1988-01-01,On Leave
+1452,Mark,SMITH,john.rodriguez@company.com,2017-04-25,Consultant,Engineering,85000,2009,4044 Pine Way,,NC,96833,1969-01-15,Inactive
+1937,Matthew,Ramirez,LISA.RAMIREZ@COMPANY.COM,2022-11-22,Lead,HR,95000,2009,,Houston,CO,60939,1997-03-25,Active
+1921,Linda,JONES,mary.lee@company.com,2019-04-05,Consultant,Sales,65000,2003,87 Oak Ave,Denver,CO,,1997-09-10,Active
+1056,Charles,Anderson,daniel.moore@company.com,2023-08-02,Consultant,Marketing,55000,2001,5690 Spruce Blvd,San Diego,GA,83943,1987-06-20,On Leave
+1736,Patricia,Hernandez,jennifer.ramirez@company.com,2019-03-06,Data Analyst,HR,55000,2010,1646 Maple Lane,New York,MA,43281,1988-11-29,Inactive
+1042,Jane,Jackson,jane@invalid,2017-06-07,Analyst,Analytics,55000,2008,,Charlotte,IN,67975,2000-04-08,Active
+1103,Linda,WILSON,thomas.moore@company.com,2017-12-26,Manager,Engineering,55000,2009,3820 Oak Court,San Francisco,GA,71396,1983-04-20,Active
+1584,susan,Williams,anthony.lee@company.com,2019-09-09,Lead,HR,45000,2009,1267 Cedar Rd,Charlotte,NJ,,1961-02-08,Active
+1369,David,WHITE,karen.martinez@company.com,2019-11-18,Manager,Engineering,95000,2007,7279 Spruce Blvd,San Jose,GA,45779,1996-01-06,On Leave
+1147,Barbara,Lopez,charles.williams@company.com,2018-04-10,Manager,HR,95000,2004,8590 Main St,Chicago,CA,61172,1978-04-21,Inactive
+1757,James,HERNANDEZ,emma.miller@company.com,2018-04-17,Analyst,IT,75000,,9937 Pine Drive,Phoenix,NC,15348,1960-08-19,Active
+1407,Barbara,White,nancy.johnson@company.com,2022-01-22,Data Analyst,IT,"$95,000",2008,3548 Oak Court,Austin,FL,13483,2000-12-25,Inactive
+1284,robert,WHITE,linda.moore@company.com,2022-11-04,Data Analyst,IT,65000,2009,,Columbus,PA,79791,1981-09-22,Inactive
+1653,Karen,Hernandez,susan.thomas@company.com,2020-02-03,Developer,Analytics,75000,2003,3584 Main Lane,Los Angeles,AZ,54246,1993-01-05,Inactive
+1598,Matthew,Robinson,JANE.ROBINSON@COMPANY.COM,2021-12-18,Consultant,HR,105000,2005,8846 Elm St,Columbus,NC,50879,1962-01-30,On Leave
+1762,Thomas,Brown,daniel.johnson@company.com,2022-05-04,Consultant,Engineering,35000,2010,68 Willow Rd,,AZ,45364,1995-06-14,Inactive
+1841,Michael,Robinson,JOHN.MARTINEZ@COMPANY.COM,2016-05-30,Architect,IT,95000,2008,9064 Elm Court,Boston,OH,76611,1993-09-22,Active
+1483,Donald,Clark,donald.miller@company.com,2018-02-27,Software Engineer,Operations,"$35,000",2002,9539 Cedar St,Dallas,NY,66897,1988-10-20,Active
+1195,Lisa,Lee,BARBARA.MOORE@COMPANY.COM,2019-09-11,Lead,Sales,105000,2002,7903 Birch Rd,New York,MI,10191,1977-03-04,Active
+1858,thomas,Lee,barbara@invalid,2025-02-02,Analyst,HR,"$35,000",2006,805 Willow Ave,Phoenix,NJ,27292,1968-09-06,On Leave
+1248,linda,MARTINEZ,charles@invalid,2017-02-02,Analyst,Finance,105000,,1819 Maple Court,Fort Worth,MO,25025,1988-07-14,Inactive
+1913,Thomas,Harris,charles.martinez@company.com,2019-08-21,Lead,Operations,55000,2002,4626 Maple Lane,Los Angeles,IN,80310,1966-09-28,On Leave
+1226,jane,Hernandez,steven.johnson@company.com,2016-12-03,Software Engineer,Marketing,"$75,000",2003,3320 Oak St,Chicago,PA,34692,1979-04-09,Active
+1738,Robert,Johnson,linda.rodriguez@company.com,2022-10-29,Consultant,HR,85000,2006,,Philadelphia,AZ,84608,1964-05-03,Active
+2005,Nancy,Johnson,john.thomas@company.com,2024-01-18,Architect,Finance,"$35,000",2007,1296 Willow St,New York,VA,72340,1985-11-04,Active
+1265,Donald,Wilson,anthony@invalid,2019-01-09,Lead,Analytics,65000,2008,2033 Ash Blvd,Houston,NC,24342,1960-12-15,Inactive
+2004,jennifer,Robinson,anthony.clark@company.com,2021-03-26,Software Engineer,Engineering,55000,2003,7906 Oak Blvd,Columbus,MD,38955,1981-12-06,On Leave
+1439,david,RODRIGUEZ,richard.lopez@company.com,2023-06-19,Developer,Finance,105000,2005,4421 Ash Lane,,NY,14491,1973-11-15,On Leave
+1900,daniel,LEE,sarah.miller@company.com,2018-01-18,Consultant,Engineering,85000,2009,1024 Willow Drive,Charlotte,TX,93406,1963-05-09,Active
+1132,Linda,Williams,barbara.clark@company.com,2020-07-14,Analyst,HR,85000,2004,6753 Pine Ave,Houston,OH,56250,1965-03-06,On Leave
+1275,Sarah,Sanchez,matthew.sanchez@company.com,2024-06-07,Analyst,HR,45000,2005,,Boston,IL,38027,1982-11-23,Inactive
+1104,Donald,Anderson,barbara@invalid,2023-06-27,Lead,Engineering,105000,2009,9029 Oak Blvd,Chicago,CO,81359,1976-07-03,Active
+1319,Matthew,Miller,david.jones@company.com,2023-01-09,Data Analyst,IT,65000,2005,7482 Main Blvd,San Diego,MO,14633,1974-01-30,On Leave
+1946,james,Rodriguez,linda.lopez@company.com,2016-10-01,Lead,Operations,45000,2004,,Austin,FL,32939,1973-05-09,On Leave
+1106,nancy,Hernandez,alice.lewis@company.com,2023-05-14,Analyst,IT,75000,2010,4023 Maple Way,Los Angeles,MO,,1975-01-30,Inactive
+1431,Patricia,SANCHEZ,charles.white@company.com,2019-10-12,Consultant,IT,"$65,000",2006,,Los Angeles,GA,48615,1981-09-25,Active
+1058,Jennifer,Lee,john@invalid,2018-03-16,Data Analyst,Sales,65000,,4570 Elm St,New York,TX,32771,1965-05-25,On Leave
+1150,Anthony,MOORE,john.lee@company.com,2023-02-06,Consultant,IT,65000,2002,6689 Maple Rd,Boston,MD,36935,2000-05-12,On Leave
+1616,linda,Taylor,thomas.smith@company.com,2026-09-25,Consultant,Operations,55000,2002,4376 Spruce Court,Columbus,VA,60066,1975-02-11,On Leave
+1790,Thomas,Williams,emma.johnson@company.com,2027-07-21,Data Analyst,IT,45000,2004,1546 Spruce Way,Columbus,CA,33575,1977-05-21,Active
+1702,Michael,Johnson,karen.lopez@company.com,2023-01-28,Developer,Marketing,65000,2008,,Fort Worth,GA,50598,1966-04-04,On Leave
+1089,Richard,Harris,john.clark@company.com,2022-01-03,Manager,Operations,65000,2010,8560 Ash Drive,Austin,,42339,1998-02-17,Active
+1413,Richard,White,steven@invalid,2024-04-27,Architect,Sales,"$65,000",2008,7602 Birch Blvd,Phoenix,TX,78043,1971-04-28,Inactive
+1996,Susan,RODRIGUEZ,jessica.white@company.com,2018-03-02,Analyst,Engineering,35000,2004,7430 Birch Lane,New York,OH,89458,1987-10-26,On Leave
+1279,James,Robinson,alice.martinez@company.com,2023-11-17,Analyst,IT,105000,2010,3245 Birch Way,San Antonio,OH,41745,1976-06-10,On Leave
+1875,Sarah,Moore,michael.lewis@company.com,2019-09-03,Developer,Finance,65000,2006,4385 Oak Lane,Philadelphia,VA,36193,1983-09-25,Active
+1905,Mark,Jones,linda.white@company.com,2019-10-07,Lead,Finance,95000,2002,1519 Elm Way,Fort Worth,,61983,1983-05-25,Inactive
+1983,patricia,Williams,sarah.thomas@company.com,2018-02-18,Analyst,Analytics,45000,2003,,San Diego,CO,53651,1970-07-20,On Leave
+1816,Richard,Wilson,barbara.jackson@company.com,2019-04-22,Developer,HR,"$45,000",2008,1948 Elm Ave,Houston,MO,86828,1962-07-20,On Leave
+1817,jennifer,Brown,alice.jackson@company.com,2025-02-02,Software Engineer,Operations,"$65,000",2001,,Dallas,TN,68822,1985-01-07,On Leave
+1778,Mark,Thompson,karen.clark@company.com,2021-10-16,Data Analyst,Operations,75000,2010,32 Ash Blvd,Indianapolis,AZ,94861,1967-11-17,Inactive
+1487,Jessica,Smith,lisa@invalid,2018-01-16,Architect,IT,65000,2003,4337 Maple Way,Chicago,TX,76686,1982-03-18,On Leave
+1322,Anthony,Davis,robert@invalid,2020-08-10,Manager,Operations,"$65,000",2001,8170 Ash Way,Phoenix,CO,12702,1973-05-09,On Leave
+1187,Thomas,Wilson,nancy.miller@company.com,2020-03-12,Data Analyst,IT,45000,2002,,Charlotte,PA,68469,1997-05-29,Active
+1077,Barbara,White,john.ramirez@company.com,2019-12-22,Analyst,Sales,35000,2002,660 Main Ave,Boston,OH,20910,1977-09-09,Active
+1268,Steven,Ramirez,john.brown@company.com,2023-01-21,Lead,HR,65000,2001,6714 Spruce Court,Philadelphia,IL,65878,1965-11-17,Inactive
+1276,john,Brown,richard.thompson@company.com,2026-06-20,Analyst,Finance,55000,2009,340 Birch St,San Antonio,TX,52468,1986-01-11,Inactive
+1860,Donald,Johnson,thomas.johnson@company.com,2019-02-22,Architect,Engineering,75000,,8505 Oak Blvd,San Francisco,NC,47572,1982-04-29,Inactive
+1022,Charles,WILLIAMS,john.davis@company.com,2022-01-12,Analyst,IT,45000,2010,3890 Birch Blvd,Austin,MD,53777,1982-12-29,On Leave
+1681,lisa,Harris,james.clark@company.com,2021-04-04,Consultant,HR,35000,2002,5008 Main Lane,Denver,MA,61864,1963-03-22,Inactive
+1282,Emma,Lopez,jessica.davis@company.com,2016-05-11,Manager,Analytics,85000,2006,9860 Oak St,San Antonio,NC,72132,1979-06-28,Active
+1249,Daniel,Harris,alice.thompson@company.com,2022-02-05,Developer,Sales,35000,2002,2182 Maple Blvd,Chicago,TX,93018,1961-01-17,Inactive
+1851,jennifer,Rodriguez,thomas.lewis@company.com,2019-01-17,Consultant,Operations,45000,2001,2552 Willow Blvd,Indianapolis,CA,71057,1987-02-27,Inactive
+1682,Daniel,Thomas,nancy.ramirez@company.com,2020-10-23,Software Engineer,IT,55000,2010,2814 Spruce St,Los Angeles,TN,33205,1976-08-06,Inactive
+2013,sarah,Moore,matthew.anderson@company.com,2021-10-25,Lead,Sales,105000,2006,1333 Spruce Way,Los Angeles,WA,38386,1980-08-07,On Leave
+1991,James,Taylor,jennifer.brown@company.com,2018-01-07,Software Engineer,Finance,85000,2002,7942 Willow Ave,San Diego,WA,53678,1978-05-14,Inactive
+1059,Karen,Lee,richard.harris@company.com,2018-10-22,Architect,Marketing,"$85,000",2006,9310 Pine Lane,Houston,CO,71086,1984-02-17,Active
+1944,Linda,Williams,anthony.lopez@company.com,2017-02-15,Lead,Engineering,95000,2007,4269 Spruce Blvd,Austin,NJ,29510,1987-06-22,On Leave
+1054,Linda,JONES,mary.sanchez@company.com,2022-11-10,Data Analyst,Marketing,35000,2008,6337 Pine Lane,Houston,FL,98669,1976-05-02,Active
+1518,Jennifer,Miller,anthony.hernandez@company.com,2018-02-21,Lead,HR,35000,2008,7477 Maple Rd,San Diego,IL,52971,1961-04-10,Active
+1498,Robert,Brown,robert.robinson@company.com,2020-03-07,Data Analyst,HR,85000,,8191 Cedar Court,San Diego,PA,43898,1977-10-27,Inactive
+1143,Linda,Williams,thomas.thompson@company.com,2022-09-03,Manager,IT,35000,2005,7523 Pine Ave,San Antonio,TN,91790,1998-11-30,On Leave
+1172,Mary,Davis,daniel.brown@company.com,2020-01-13,Software Engineer,Marketing,"$105,000",2006,8352 Spruce Lane,Dallas,IL,82608,1999-10-12,Active
+1260,daniel,Hernandez,anthony@invalid,2021-05-10,Developer,Engineering,75000,,673 Maple Lane,Chicago,NJ,17237,1965-07-06,On Leave
+1040,Daniel,Taylor,lisa.white@company.com,2021-01-20,Developer,IT,65000,2001,667 Elm Rd,San Jose,NJ,98190,2000-08-03,Active
+1690,Robert,Ramirez,matthew.ramirez@company.com,2021-02-03,Analyst,Engineering,105000,2005,2337 Main Lane,Columbus,FL,23643,1962-01-17,Active
+1353,anthony,Anderson,charles.johnson@company.com,2022-10-04,Lead,IT,55000,2009,3029 Birch Ave,Chicago,AZ,39811,1986-09-16,On Leave
+1015,Donald,Robinson,steven.martinez@company.com,2017-07-17,Manager,IT,85000,2008,3711 Maple Rd,San Antonio,MO,93435,1977-03-13,Active
+1601,emma,Moore,jane.wilson@company.com,2019-01-12,Consultant,Finance,45000,2006,1433 Main Court,,WA,61021,1988-09-23,Inactive
+1888,mark,Lopez,jessica.robinson@company.com,2019-03-30,Software Engineer,Engineering,95000,2002,8645 Oak Ave,Dallas,TX,86002,1985-07-15,Active
+1020,Nancy,Martinez,JENNIFER.JACKSON@COMPANY.COM,2018-03-21,Consultant,Engineering,85000,,408 Cedar St,Chicago,TN,89115,1989-11-14,Active
+1475,richard,Williams,richard.anderson@company.com,2017-02-17,Developer,Operations,55000,2007,7067 Spruce Ave,Columbus,MD,59539,1960-05-25,Active
+1969,Nancy,White,jessica.harris@company.com,2017-05-11,Analyst,Sales,45000,2006,8017 Main Rd,Los Angeles,NJ,27666,1963-08-09,Inactive
+1798,Karen,Moore,karen.hernandez@company.com,2021-04-09,Architect,Operations,105000,2005,,San Jose,MI,53981,1990-07-23,Inactive
+1947,Thomas,Jones,richard.jackson@company.com,2020-06-23,Analyst,Finance,95000,2005,104 Ash Blvd,Chicago,IN,,1977-10-08,On Leave
+1168,john,Smith,jennifer.johnson@company.com,2018-01-30,Lead,HR,55000,2004,5494 Birch Way,Indianapolis,WA,52610,1965-05-20,Active
+1448,Nancy,Sanchez,daniel.hernandez@company.com,2021-08-25,Architect,Operations,35000,2004,4478 Spruce Blvd,Indianapolis,NC,80997,1978-05-24,On Leave
+1720,Emma,Harris,DONALD.WILSON@COMPANY.COM,2022-07-29,Lead,HR,35000,2001,208 Pine Ave,Dallas,TN,,1977-02-15,Active
+2019,steven,Sanchez,richard.miller@company.com,2018-11-04,Analyst,Finance,"$65,000",2001,2151 Cedar Lane,Philadelphia,,69208,1971-12-22,Active
+1994,donald,Thomas,alice.miller@company.com,2020-07-30,Lead,IT,35000,2002,3422 Spruce Blvd,Columbus,CA,50701,1997-02-01,On Leave
+1065,anthony,Rodriguez,daniel.clark@company.com,2019-05-03,Lead,Operations,95000,,3282 Maple Drive,Philadelphia,NJ,53731,1969-04-25,Inactive
+1595,Steven,WILLIAMS,jane.thomas@company.com,2021-01-09,Software Engineer,HR,105000,2002,7860 Spruce Way,Philadelphia,FL,98240,1993-01-26,Inactive
+1818,Michael,MOORE,JAMES.ANDERSON@COMPANY.COM,2017-09-01,Lead,Marketing,75000,2007,5313 Maple Ave,New York,MA,57366,1975-03-27,Inactive
+1626,Thomas,Brown,steven.clark@company.com,2016-06-01,Developer,Engineering,75000,2002,,Philadelphia,GA,77580,1963-05-18,On Leave
+1666,linda,Miller,jane.anderson@company.com,2021-06-02,Developer,Finance,65000,2008,3114 Ash Drive,San Antonio,GA,71364,1993-03-07,Inactive
+1684,Donald,LEWIS,john.harris@company.com,2022-05-10,Lead,IT,45000,2004,2465 Spruce Drive,Phoenix,IL,62081,1993-07-12,Inactive
+1165,Mark,Sanchez,sarah.miller@company.com,2016-08-14,Software Engineer,Engineering,75000,2002,2864 Pine Ave,San Francisco,MO,14384,1964-02-17,On Leave
+1916,Thomas,Martinez,john.johnson@company.com,2023-05-06,Architect,Finance,75000,2001,6317 Willow Court,New York,MO,76928,1966-07-21,Active
+1048,Michael,LEE,thomas.lee@company.com,2021-11-12,Lead,Sales,85000,2004,6767 Willow Blvd,San Francisco,CO,84064,1971-07-24,On Leave
+1228,Charles,Miller,jennifer.thomas@company.com,2026-12-29,Lead,Marketing,105000,2010,5689 Oak Rd,San Antonio,OH,15438,2000-03-02,Active
+1202,Sarah,Ramirez,susan.jackson@company.com,2018-12-23,Data Analyst,Operations,85000,2003,1952 Cedar Ave,Houston,OH,87552,1975-10-16,On Leave
+1341,steven,Clark,john.johnson@company.com,2022-07-03,Lead,Analytics,45000,,1164 Ash Lane,Denver,MD,16521,1986-08-08,Active
+1923,Robert,Martin,ALICE.HERNANDEZ@COMPANY.COM,2021-02-18,Developer,HR,45000,2006,4575 Maple Court,San Jose,NY,58285,1999-08-14,Inactive
+1543,Robert,Davis,john.martin@company.com,2020-08-16,Developer,Analytics,95000,2004,2503 Birch Rd,Fort Worth,MI,86597,1965-05-25,On Leave
+1551,Jennifer,JOHNSON,charles.thomas@company.com,2021-04-23,Manager,HR,65000,2008,2886 Oak Ave,San Jose,MI,,1964-03-01,Inactive
+1577,Patricia,JOHNSON,karen.jackson@company.com,2025-01-31,Developer,Sales,85000,2005,9500 Ash Drive,Jacksonville,TN,47257,1973-03-12,Active
+1979,Matthew,Clark,karen.jones@company.com,2017-02-08,Data Analyst,Engineering,95000,2004,9251 Pine Blvd,Boston,NY,71154,1981-02-13,Inactive
+1262,Linda,Jackson,susan.anderson@company.com,2018-07-14,Architect,Sales,65000,2003,7043 Ash Lane,Dallas,CO,60094,1971-09-11,Active
+1829,James,Smith,matthew@invalid,2027-12-30,Manager,Sales,105000,2006,2621 Pine Rd,San Antonio,WA,59118,1991-11-14,Inactive
+1304,Thomas,Martin,jennifer@invalid,2021-04-17,Analyst,IT,45000,2006,8547 Elm Court,Dallas,MA,85329,1987-04-15,Active
+2017,Michael,Martinez,james.rodriguez@company.com,2024-03-28,Developer,Engineering,"$65,000",2007,2666 Elm Drive,Jacksonville,NJ,39583,1971-01-01,Active
+1163,nancy,Harris,barbara.martin@company.com,2017-09-02,Data Analyst,Analytics,45000,2010,3538 Main Ave,Columbus,AZ,18815,1971-06-19,Active
+1189,steven,Harris,charles.thompson@company.com,2023-12-20,Architect,Marketing,105000,2003,2085 Birch Way,New York,NJ,60073,1977-10-07,Active
+1992,mary,Smith,linda@invalid,2018-03-25,Developer,Analytics,45000,2005,5603 Willow Court,Seattle,NJ,69525,1972-11-11,Active
+1457,Susan,TAYLOR,anthony.anderson@company.com,2021-03-23,Lead,Engineering,75000,2001,1302 Main Blvd,Dallas,VA,17328,1966-07-16,On Leave
+1346,David,Lewis,james.thomas@company.com,2024-12-06,Software Engineer,HR,"$105,000",2001,9510 Birch Way,New York,CA,44758,1980-11-19,Active
+1167,Charles,MARTINEZ,john.hernandez@company.com,2021-01-12,Architect,Sales,55000,2003,8482 Cedar Lane,Dallas,WA,16423,1970-03-21,Active
+1756,Linda,Davis,nancy.williams@company.com,2021-01-04,Lead,Sales,45000,2008,,Indianapolis,NC,82923,1986-03-13,Active
+1506,Linda,Lewis,lisa.brown@company.com,2020-08-30,Consultant,Marketing,35000,2005,7851 Maple Rd,Philadelphia,MI,49637,1994-09-14,On Leave
+1634,James,Johnson,karen.williams@company.com,2023-03-23,Architect,HR,95000,2006,3272 Oak Ave,Los Angeles,VA,83643,1990-10-19,On Leave
+1951,Richard,RAMIREZ,sarah@invalid,2022-05-10,Consultant,HR,"$65,000",2005,1903 Birch Way,San Diego,MO,16799,1992-05-12,On Leave
+1232,mary,Moore,mary.williams@company.com,2016-11-09,Data Analyst,IT,35000,,2567 Spruce Drive,Austin,NY,74456,1970-01-17,Inactive
+1250,Nancy,Rodriguez,nancy.anderson@company.com,2024-05-02,Lead,HR,75000,2002,1116 Maple St,Fort Worth,WA,82232,1974-11-09,Inactive
+1315,Patricia,Anderson,james.ramirez@company.com,2023-06-01,Data Analyst,Finance,75000,2009,8569 Birch Drive,New York,MD,66294,1999-01-12,Inactive
+1760,Patricia,Smith,nancy.lewis@company.com,2017-12-24,Data Analyst,HR,45000,,6625 Main Lane,Columbus,,23694,1999-03-27,Inactive
+1331,Mary,RAMIREZ,jessica.brown@company.com,2022-06-03,Software Engineer,HR,"$45,000",2004,719 Maple Drive,Los Angeles,MD,20438,1998-05-17,Active
+1645,donald,Lee,linda.harris@company.com,2021-04-08,Data Analyst,Marketing,"$105,000",2007,7291 Maple Rd,San Antonio,WA,36856,2000-12-12,Active
+1013,Lisa,Hernandez,LINDA.CLARK@COMPANY.COM,2017-03-28,Consultant,Engineering,"$35,000",2004,,San Jose,PA,32872,1964-11-17,Inactive
+1632,David,MOORE,steven.johnson@company.com,2022-06-18,Data Analyst,Operations,105000,2006,7824 Oak Rd,San Jose,VA,34265,1968-01-02,Inactive
+1026,Matthew,Jones,alice.white@company.com,2017-07-05,Lead,Operations,55000,2004,4104 Pine Way,Seattle,CA,,1963-10-24,On Leave
+1109,Linda,Taylor,thomas.miller@company.com,2024-03-05,Lead,IT,45000,2010,5714 Oak Ave,Columbus,PA,15538,1966-03-23,Active
+1126,Thomas,Martinez,steven.hernandez@company.com,2022-07-16,Developer,Finance,105000,,294 Willow Blvd,,MA,40642,1996-06-13,On Leave
+1359,Barbara,WILSON,alice.harris@company.com,2024-07-04,Developer,Finance,"$55,000",2007,9096 Willow Way,Fort Worth,WA,60166,1972-03-28,Inactive
+1886,Patricia,Miller,john.clark@company.com,2019-03-16,Software Engineer,Sales,85000,2003,1084 Birch Court,Fort Worth,GA,79061,1969-07-01,On Leave
+1633,Susan,Lopez,robert.thompson@company.com,2022-12-01,Software Engineer,IT,95000,2008,9680 Elm Lane,Seattle,VA,89182,1964-02-20,Inactive
+1426,Linda,Robinson,DONALD.BROWN@COMPANY.COM,2022-07-18,Manager,Analytics,95000,2002,3905 Elm Rd,San Jose,PA,37604,1972-06-23,On Leave
+1689,Robert,Lopez,linda.davis@company.com,2021-12-16,Architect,Engineering,75000,2007,3846 Spruce Way,,IL,68643,1962-03-11,On Leave
+1066,Lisa,Thomas,robert@invalid,2018-06-06,Architect,Engineering,65000,2006,104 Elm Drive,Fort Worth,TX,90946,1978-03-30,Active
+1258,Anthony,Clark,charles.ramirez@company.com,2016-09-10,Software Engineer,IT,"$75,000",2002,,Indianapolis,CO,48486,1966-07-10,On Leave
+1955,Patricia,Lewis,susan.jones@company.com,2022-02-14,Lead,Finance,"$45,000",2003,1529 Spruce Way,San Diego,TX,96972,2000-09-06,On Leave
+1201,Jane,WILLIAMS,charles.thompson@company.com,2016-05-24,Lead,Finance,85000,2003,1946 Willow Way,Fort Worth,MA,69576,1964-06-11,Inactive
+1435,sarah,MARTIN,daniel.lewis@company.com,2021-01-21,Developer,Analytics,45000,2010,6835 Cedar Court,Chicago,WA,49304,1981-08-10,Active
+1408,Steven,MOORE,alice.martin@company.com,2017-01-17,Manager,Finance,55000,2003,8532 Pine Blvd,San Jose,TN,66653,1983-11-08,On Leave
+1051,daniel,Brown,alice.lopez@company.com,2016-06-06,Software Engineer,Analytics,95000,2009,5522 Elm St,,TN,98746,1964-12-11,On Leave
+1569,patricia,Miller,jennifer.davis@company.com,2017-01-19,Lead,Sales,"$65,000",2003,8393 Pine St,Chicago,AZ,83914,1966-05-30,Inactive
+1793,Matthew,Jackson,james.jackson@company.com,2023-10-23,Developer,Analytics,105000,2003,111 Maple Blvd,Boston,GA,74474,1993-02-12,Active
+1965,Mary,Harris,karen@invalid,2017-08-30,Analyst,Sales,35000,,4838 Maple Ave,San Diego,NJ,92447,1972-05-05,On Leave
+1415,Mary,Lee,mary.miller@company.com,2022-03-11,Architect,HR,95000,2004,3515 Cedar St,Dallas,MD,42390,1969-09-16,Inactive
+1724,Sarah,DAVIS,JESSICA.MOORE@COMPANY.COM,2019-05-27,Manager,Sales,105000,2002,360 Main Court,Los Angeles,,85236,1987-07-17,On Leave
+1694,David,Martinez,matthew@invalid,2018-08-23,Analyst,Sales,75000,,2658 Pine Court,Seattle,WA,20930,1962-02-15,Active
+1721,Thomas,Robinson,SUSAN.LOPEZ@COMPANY.COM,2021-02-27,Software Engineer,Operations,"$45,000",2009,338 Elm Rd,Phoenix,NJ,87676,1967-03-06,Active
+1079,James,WILLIAMS,thomas.lopez@company.com,2021-09-26,Lead,Operations,85000,2009,9068 Pine Blvd,Austin,WA,59094,1968-12-10,Inactive
+1352,Robert,Thompson,richard@invalid,2016-12-10,Software Engineer,Operations,75000,2010,4640 Birch St,Chicago,CA,47135,1993-09-06,Inactive
+1033,Jennifer,Williams,jennifer.smith@company.com,2024-11-09,Analyst,Analytics,"$45,000",2002,8388 Birch Rd,San Antonio,MA,62535,1998-05-28,Active
+1070,Nancy,ANDERSON,matthew.thompson@company.com,2020-02-01,Analyst,Marketing,65000,2003,6762 Spruce St,Seattle,VA,79534,1977-09-25,On Leave
+1314,Donald,Anderson,james.clark@company.com,2016-06-05,Analyst,IT,85000,2001,7353 Main Ave,Denver,MD,76149,1988-11-22,Inactive
+1261,Jane,Lee,mark.jones@company.com,2021-02-11,Manager,IT,"$45,000",2005,1586 Birch Way,Phoenix,TX,53347,1980-04-09,Active
+1014,Susan,Martinez,jane.williams@company.com,2016-12-17,Architect,HR,"$65,000",2007,1210 Cedar Rd,Seattle,NJ,97928,1962-03-24,Inactive
+1904,Thomas,Miller,matthew.davis@company.com,2024-04-05,Architect,IT,35000,2009,7584 Maple Rd,Denver,OH,81241,1962-08-21,Inactive
+1862,Karen,MILLER,lisa.williams@company.com,2026-12-21,Manager,Sales,"$55,000",2010,5524 Spruce St,Jacksonville,NJ,52976,1992-11-03,Inactive
+1310,Charles,Smith,jennifer.davis@company.com,2023-07-31,Software Engineer,HR,"$55,000",2003,213 Spruce Rd,Denver,,55548,1997-06-15,Inactive
+1133,Matthew,Thompson,ALICE.JOHNSON@COMPANY.COM,2018-11-19,Architect,Engineering,35000,2009,4364 Spruce Rd,Los Angeles,IN,72011,1965-10-07,On Leave
+1247,Matthew,Williams,jane@invalid,2019-06-24,Architect,Analytics,"$85,000",,677 Cedar Blvd,Jacksonville,FL,22603,1968-09-13,Inactive
+1777,Mary,Moore,emma.lee@company.com,2017-07-02,Lead,IT,85000,2005,2514 Elm Court,San Jose,MI,74128,1972-08-24,Active
+1102,anthony,TAYLOR,karen.rodriguez@company.com,2022-05-17,Manager,Operations,"$45,000",2001,5312 Willow Lane,Indianapolis,MD,87574,1977-01-30,Active
+1730,patricia,WHITE,matthew.smith@company.com,2018-12-24,Consultant,IT,65000,2007,835 Birch Way,Philadelphia,OH,45805,1962-08-28,On Leave
+1975,Jessica,Taylor,alice.thomas@company.com,2020-12-15,Developer,Sales,55000,2010,2587 Pine Way,Charlotte,IL,62184,1998-02-28,Inactive
+1052,James,Moore,karen.thompson@company.com,2026-08-16,Data Analyst,HR,55000,2001,9440 Oak Lane,San Diego,MA,72765,2000-06-13,On Leave
+1037,Sarah,Martinez,susan.moore@company.com,2020-09-03,Consultant,HR,95000,2004,,Denver,MI,53949,1992-08-09,On Leave
+1001,Lisa,Anderson,patricia.jones@company.com,2019-10-05,Analyst,Finance,65000,2005,,,PA,66105,2000-09-06,Inactive
+1137,Lisa,RAMIREZ,daniel.davis@company.com,2018-05-22,Analyst,Sales,35000,2003,3521 Pine Way,Philadelphia,NC,91847,1975-09-25,On Leave
+1822,Lisa,Jackson,nancy.thompson@company.com,2020-03-31,Architect,Operations,95000,2002,343 Maple Court,San Francisco,MO,87747,1987-06-15,Active
+1117,Jennifer,THOMPSON,mark.white@company.com,2021-06-28,Architect,Sales,85000,2008,5507 Maple St,San Antonio,MA,36746,1974-09-08,On Leave
+1362,Linda,Miller,MICHAEL.CLARK@COMPANY.COM,2022-04-09,Lead,Sales,85000,2007,9854 Main Court,Columbus,GA,43509,1961-09-23,Active
+1122,Jennifer,Wilson,mark.robinson@company.com,2018-08-10,Software Engineer,Sales,"$55,000",2005,9231 Spruce Blvd,Los Angeles,TN,16387,1989-11-24,Inactive
+1853,Nancy,Rodriguez,charles.jones@company.com,2019-11-19,Analyst,Sales,"$45,000",2008,1733 Birch Drive,Austin,MO,19365,1992-06-15,Inactive
+1328,Nancy,Smith,donald.white@company.com,2025-01-12,Lead,Marketing,75000,2008,4032 Main Lane,Austin,TN,70496,1993-01-25,Inactive
+1446,john,LOPEZ,donald.lopez@company.com,2019-06-01,Analyst,Operations,45000,2007,8348 Spruce Way,Columbus,GA,13638,1974-09-03,On Leave
+1291,steven,Robinson,STEVEN.HARRIS@COMPANY.COM,2018-04-13,Architect,HR,95000,2007,6669 Birch Rd,San Francisco,OH,92095,1997-03-15,On Leave
+2000,charles,Rodriguez,robert@invalid,2017-11-22,Manager,Analytics,95000,2002,7684 Pine St,Phoenix,NJ,88749,1995-07-24,Active
+1094,emma,Thomas,mary.lopez@company.com,2018-06-26,Software Engineer,IT,35000,2006,2917 Maple Drive,Fort Worth,CA,75099,2000-06-04,Active
+1728,Karen,Jones,richard.harris@company.com,2022-02-14,Analyst,Engineering,45000,2004,5143 Oak Court,San Antonio,PA,60513,1970-07-07,Active
+2015,Jennifer,Johnson,alice@invalid,2016-06-16,Consultant,Marketing,105000,2010,2963 Willow Ave,San Jose,NJ,55461,1972-07-10,Inactive
+1957,Mary,Lee,john.lopez@company.com,2017-08-21,Manager,Marketing,"$95,000",2007,9052 Cedar Drive,Chicago,AZ,79625,1998-12-28,On Leave
+1377,Sarah,Thompson,daniel.martin@company.com,2017-11-30,Consultant,Marketing,55000,2008,2927 Pine Lane,Houston,MO,18487,1995-07-22,Inactive
+1367,Patricia,JONES,anthony.white@company.com,2022-12-05,Manager,Marketing,"$35,000",2008,1595 Pine Court,Boston,MA,81648,1998-12-27,Active
+1737,Thomas,Thompson,sarah@invalid,2017-09-09,Analyst,Operations,45000,2009,952 Willow Ave,Austin,GA,44631,1996-01-24,Inactive
+1371,Emma,Martinez,james.martinez@company.com,2018-06-05,Software Engineer,Marketing,35000,2002,4733 Main Blvd,Charlotte,WA,16108,1961-01-19,Inactive
+1425,steven,Sanchez,richard.miller@company.com,2018-11-04,Analyst,Finance,"$65,000",2001,2151 Cedar Lane,Philadelphia,,69208,1971-12-22,Active
+1739,michael,Wilson,emma.wilson@company.com,2018-10-13,Developer,Operations,75000,2002,5308 Spruce Rd,Jacksonville,,15068,1998-03-19,On Leave
+1768,Jennifer,DAVIS,nancy.taylor@company.com,2018-05-29,Software Engineer,Operations,35000,2001,9038 Maple Court,Phoenix,FL,31069,1964-03-22,Inactive
+1509,barbara,Thompson,SARAH.MARTIN@COMPANY.COM,2019-11-22,Developer,Analytics,35000,2009,3208 Oak Drive,Phoenix,CA,26402,1966-11-16,Active
+1485,Daniel,White,donald@invalid,2022-03-28,Manager,Analytics,105000,2008,4001 Pine St,San Francisco,WA,80487,1992-11-14,On Leave
+1326,Nancy,Anderson,john.wilson@company.com,2024-08-04,Consultant,Marketing,45000,2010,,Charlotte,OH,10812,1992-07-21,On Leave
+1537,Alice,Harris,robert@invalid,2020-09-30,Software Engineer,IT,105000,2009,7713 Cedar Court,Phoenix,IN,99688,1962-08-10,On Leave
+1470,Anthony,Lewis,karen.rodriguez@company.com,2022-01-20,Developer,Sales,65000,2005,8101 Birch Court,Indianapolis,VA,16093,1963-10-19,On Leave
+1763,Matthew,Thomas,jennifer.martin@company.com,2020-01-17,Software Engineer,Sales,75000,2007,3950 Main Way,Charlotte,AZ,42863,1987-09-25,On Leave
+1482,John,White,nancy@invalid,2016-10-13,Analyst,Operations,45000,2001,9926 Birch Ave,Phoenix,IL,47131,1961-06-05,Active
+1935,Michael,DAVIS,LINDA.THOMPSON@COMPANY.COM,2017-02-12,Analyst,IT,105000,2008,6290 Ash Lane,Columbus,TN,56733,1993-01-20,On Leave
+1708,Nancy,Anderson,mary.rodriguez@company.com,2024-11-13,Software Engineer,Analytics,95000,2010,8803 Cedar Drive,San Diego,NC,96189,1995-04-15,Active
+1113,Charles,JONES,karen.clark@company.com,2016-11-02,Manager,Marketing,"$75,000",2003,9696 Birch Lane,San Antonio,MI,48031,2000-07-14,Inactive
+1511,Mark,Rodriguez,jane.moore@company.com,2016-04-03,Data Analyst,Finance,85000,2007,7017 Main Ave,New York,IL,88211,1976-07-22,Active
+1357,barbara,Moore,STEVEN.WILSON@COMPANY.COM,2026-10-14,Analyst,Finance,45000,2005,3904 Pine Court,Austin,,40433,1990-10-30,Active
+1445,Jane,Taylor,jessica.martinez@company.com,2016-10-02,Data Analyst,Operations,"$35,000",2007,5871 Birch Ave,Jacksonville,MA,,1975-05-01,On Leave
+1063,nancy,Martinez,mary.sanchez@company.com,2024-06-21,Software Engineer,Finance,85000,2005,6392 Spruce Drive,Houston,IL,60197,1960-07-01,Active
+1952,Thomas,MARTIN,michael.lopez@company.com,2024-01-18,Data Analyst,HR,"$55,000",,7083 Birch Rd,Austin,MA,57655,1981-06-04,On Leave
+1110,James,White,thomas.lee@company.com,2018-08-01,Lead,IT,95000,2004,8024 Birch Court,San Jose,TX,88978,1974-05-05,Inactive
+1949,Sarah,Ramirez,mark.white@company.com,2023-05-09,Analyst,Engineering,75000,2002,3078 Pine Rd,San Francisco,FL,66484,1998-11-29,Inactive
+1206,Jessica,Brown,robert.brown@company.com,2022-07-23,Manager,Finance,85000,2006,4201 Elm Lane,Jacksonville,MD,54208,1988-06-24,Active
+1370,Daniel,Jackson,JAMES.MOORE@COMPANY.COM,2019-11-16,Architect,IT,105000,2006,144 Maple Court,Dallas,AZ,71997,1997-11-05,On Leave
+1200,Patricia,Lopez,jane.hernandez@company.com,2022-02-06,Consultant,IT,"$35,000",2009,2042 Willow Drive,New York,PA,88591,1981-01-31,On Leave
+1843,jane,Lopez,richard.davis@company.com,2020-09-08,Software Engineer,IT,"$45,000",2002,98 Oak Rd,Indianapolis,,80070,1982-12-25,Active
+1901,Michael,Williams,james@invalid,2024-02-21,Developer,HR,65000,2008,3638 Spruce Lane,Chicago,IL,41695,1974-12-21,Active
+1488,jane,Brown,susan.wilson@company.com,2018-09-09,Analyst,Analytics,65000,2006,4772 Elm Lane,New York,AZ,91406,1998-06-16,On Leave
+1209,Mark,WILSON,jane.sanchez@company.com,2023-12-02,Manager,HR,45000,2001,8457 Pine St,Phoenix,NJ,43827,1978-09-04,Active
+1068,john,Jones,michael.sanchez@company.com,2016-07-12,Developer,HR,65000,,2900 Cedar Court,Fort Worth,CA,53437,1986-11-30,Inactive
+1976,Linda,Sanchez,michael.clark@company.com,2017-09-07,Consultant,Marketing,95000,2007,5013 Birch Blvd,San Jose,MA,31350,1978-04-27,On Leave
+1432,mary,WILSON,matthew.jones@company.com,2023-07-03,Analyst,Engineering,65000,2005,1397 Willow Drive,,NY,56377,1987-09-11,Inactive
+2012,Michael,MARTIN,linda.clark@company.com,2017-02-12,Architect,IT,85000,,2338 Birch Way,Dallas,NJ,49748,1993-04-14,Active
+1850,Alice,Jackson,david.harris@company.com,2020-01-31,Developer,Marketing,"$95,000",,790 Ash Ave,San Francisco,AZ,16912,1971-08-27,Inactive
+1255,Mark,Davis,david.johnson@company.com,2017-08-06,Manager,Operations,45000,2009,2240 Spruce Way,,TX,55899,1962-04-09,Inactive
+1663,Patricia,Moore,mary.wilson@company.com,2023-05-23,Analyst,Engineering,75000,2005,3572 Pine Court,Columbus,MI,33045,1971-10-03,Inactive
+1674,Patricia,Taylor,michael.martin@company.com,2022-10-26,Software Engineer,Sales,85000,2008,,San Diego,AZ,37894,1976-08-25,Inactive
+1115,Donald,Williams,steven.thomas@company.com,2024-08-16,Developer,Engineering,"$55,000",2004,651 Main Rd,San Antonio,IN,17752,1968-03-02,Inactive
+1934,Robert,Smith,john.wilson@company.com,2017-03-29,Manager,Engineering,"$85,000",2004,5004 Main Drive,Columbus,FL,95365,1965-07-15,On Leave
+1795,Susan,Miller,anthony.anderson@company.com,2018-10-27,Consultant,HR,85000,2003,8523 Elm Court,Austin,IL,,1984-07-17,Active
+1396,jane,MARTIN,anthony.hernandez@company.com,2019-07-01,Data Analyst,IT,105000,2010,4452 Pine Ave,Seattle,TX,41651,1986-08-23,Active
+1349,David,Davis,alice.davis@company.com,2018-02-05,Data Analyst,Operations,75000,2001,4843 Birch Blvd,Los Angeles,GA,86788,1997-09-11,Inactive
+1637,Patricia,Thomas,susan.rodriguez@company.com,2017-07-14,Manager,IT,55000,2006,2306 Main Rd,Austin,TX,96498,1999-04-24,Active
+1612,Charles,Miller,sarah.rodriguez@company.com,2022-06-10,Data Analyst,Finance,"$35,000",2007,3262 Willow Lane,Fort Worth,NJ,59678,1990-05-25,Inactive
+1712,jennifer,Martinez,mary.harris@company.com,2023-06-21,Software Engineer,IT,55000,2002,1637 Birch Lane,Phoenix,MA,28492,1960-07-01,Inactive
+1872,Jane,LEWIS,MICHAEL.LOPEZ@COMPANY.COM,2024-09-08,Developer,Operations,75000,2006,7352 Elm Ave,Chicago,GA,35431,1965-09-25,On Leave
+1404,Susan,Robinson,sarah@invalid,2016-03-16,Developer,Sales,65000,2010,6483 Cedar Way,Jacksonville,MD,80850,1965-02-20,Inactive
+1890,Lisa,Jackson,alice.sanchez@company.com,2019-02-07,Data Analyst,Marketing,55000,,2616 Main Blvd,Philadelphia,MI,92453,1999-04-11,Inactive
+1929,Steven,Anderson,nancy.williams@company.com,2018-11-05,Software Engineer,Operations,105000,2005,8929 Ash Blvd,Charlotte,OH,76006,1979-08-29,On Leave
+1029,Robert,Wilson,mary.anderson@company.com,2016-07-11,Software Engineer,HR,45000,2006,2105 Main St,San Francisco,TN,48289,1992-12-29,On Leave
+1630,Lisa,Harris,charles.white@company.com,2020-07-02,Architect,Engineering,75000,2001,5349 Maple St,Denver,AZ,15433,1979-01-11,Active
+1387,Barbara,Ramirez,RICHARD.SMITH@COMPANY.COM,2019-05-02,Software Engineer,Finance,85000,2003,5565 Oak Lane,,MA,10515,1966-12-27,Active
+1160,Mark,Jackson,charles.white@company.com,2019-01-09,Analyst,HR,95000,2005,5832 Main Ave,San Diego,CO,25736,1982-03-24,On Leave
+1127,Jane,Smith,robert@invalid,2023-05-02,Analyst,Operations,55000,2009,3794 Willow Rd,Indianapolis,OH,,1961-09-21,On Leave
+1388,Jennifer,Robinson,mary.taylor@company.com,2023-05-22,Lead,Finance,85000,2008,8104 Willow Court,Indianapolis,MO,31743,1990-12-09,Active
+1134,linda,White,ANTHONY.HARRIS@COMPANY.COM,2022-12-04,Data Analyst,HR,55000,2004,7187 Cedar Ave,New York,CO,54661,1967-12-18,Inactive
+1687,thomas,Clark,nancy.martinez@company.com,2017-07-08,Architect,Sales,75000,2010,,Chicago,VA,29166,1974-11-01,Inactive
+1064,John,Davis,anthony.wilson@company.com,2023-10-24,Lead,IT,35000,2009,5009 Oak Blvd,Austin,GA,97445,1979-05-21,Active
+1007,john,WILSON,richard.jackson@company.com,2017-10-28,Developer,IT,85000,,6498 Maple Ave,San Jose,TN,78303,1979-11-17,Active
+1421,Lisa,Lee,matthew.rodriguez@company.com,2021-09-02,Developer,Analytics,65000,2001,9208 Spruce St,,NJ,94865,1964-02-22,On Leave
+1660,Susan,Taylor,lisa.martinez@company.com,2023-02-22,Consultant,Finance,55000,2007,7563 Pine Way,Philadelphia,FL,62574,1982-06-06,Active
+1145,jane,Martinez,lisa.johnson@company.com,2020-11-09,Analyst,Engineering,35000,2002,4914 Willow Lane,San Diego,NY,38284,1976-01-13,Inactive
+1701,Jane,Moore,steven.taylor@company.com,2026-05-31,Data Analyst,Analytics,75000,2007,6085 Maple Way,San Diego,MD,58998,1964-08-24,Inactive
+1586,Jane,Hernandez,lisa.williams@company.com,2018-06-07,Manager,Operations,85000,2008,1493 Pine Court,Denver,MA,11399,1966-12-25,Inactive
+1954,Mary,ROBINSON,lisa.miller@company.com,2020-09-26,Software Engineer,Finance,75000,2007,9599 Spruce Way,Jacksonville,VA,49527,1992-04-30,Inactive
+1906,Karen,DAVIS,sarah.rodriguez@company.com,2016-11-30,Lead,IT,35000,2001,1170 Main Court,Austin,NC,77647,1984-03-15,On Leave
+1918,Thomas,Brown,donald@invalid,2023-03-15,Developer,IT,35000,2006,1125 Maple St,San Francisco,WA,,1961-02-22,Inactive
+1787,Michael,Moore,jennifer.brown@company.com,2022-03-05,Consultant,Analytics,45000,2008,3596 Maple Ave,Boston,MO,91459,1961-09-03,On Leave
+1210,Barbara,Lewis,james.davis@company.com,2022-01-05,Data Analyst,Engineering,85000,2001,,San Diego,MI,15715,1962-08-02,Inactive
+1366,Michael,Davis,patricia.moore@company.com,2017-04-06,Developer,Finance,"$45,000",2007,4858 Cedar St,Denver,GA,45077,1983-07-28,On Leave
+1162,Patricia,Hernandez,john.jones@company.com,2020-07-28,Developer,HR,45000,2010,4988 Pine Ave,Charlotte,AZ,82772,1982-12-31,Inactive
+1573,Thomas,White,PATRICIA.TAYLOR@COMPANY.COM,2021-01-18,Analyst,Analytics,55000,,6051 Main Drive,Indianapolis,,97526,1971-08-20,Inactive
+2003,Mark,Harris,JANE.MARTINEZ@COMPANY.COM,2020-06-30,Lead,Engineering,55000,2004,3098 Willow Rd,San Antonio,PA,63160,1992-09-12,On Leave
+1713,Lisa,Smith,nancy@invalid,2019-01-26,Software Engineer,Operations,"$95,000",2009,6720 Elm St,New York,CA,31482,1992-12-03,Inactive
+1671,Nancy,LEWIS,robert.taylor@company.com,2018-05-01,Developer,Sales,55000,2009,3466 Spruce Blvd,Boston,MA,,2000-01-23,Active
+1607,mary,Clark,susan.jackson@company.com,2019-12-05,Software Engineer,Engineering,85000,2009,988 Birch Court,,IN,48768,1960-07-13,On Leave
+1693,thomas,Thomas,charles@invalid,2021-12-15,Architect,HR,85000,2002,8644 Maple Drive,Columbus,OH,85214,1991-08-20,Inactive
+1148,jane,LOPEZ,charles.johnson@company.com,2016-07-26,Data Analyst,Operations,"$85,000",2005,,Dallas,TX,69276,1982-05-19,Active
+1665,Karen,Hernandez,jennifer.thomas@company.com,2018-02-25,Architect,Marketing,35000,2001,1583 Ash Lane,Austin,VA,69870,1965-06-28,Inactive
+1978,James,Lee,susan.jackson@company.com,2024-06-03,Software Engineer,Analytics,75000,2007,3533 Birch Way,Chicago,CO,67292,1965-02-13,On Leave
+1327,Jennifer,MARTIN,DANIEL.RAMIREZ@COMPANY.COM,2022-01-27,Data Analyst,Sales,95000,2007,4895 Main Ave,San Antonio,,,1963-10-07,Inactive
+1852,Charles,Thompson,sarah@invalid,2019-10-22,Developer,Operations,55000,2010,,Fort Worth,IN,73732,1983-01-08,Inactive
+1747,steven,Williams,charles.harris@company.com,2021-09-10,Manager,Operations,35000,2010,1000 Willow Blvd,San Francisco,MD,65828,1965-11-15,Inactive
+1237,Lisa,Ramirez,sarah.robinson@company.com,2017-08-23,Lead,Engineering,85000,2003,8048 Pine Blvd,New York,AZ,70882,1996-10-07,Active
+1908,John,WILSON,karen.lee@company.com,2023-07-22,Software Engineer,Operations,65000,2009,4266 Maple Court,Seattle,WA,54943,1996-07-08,Active
+1527,Susan,Clark,JOHN.ANDERSON@COMPANY.COM,2017-02-24,Developer,IT,"$35,000",2005,2649 Willow Ave,Houston,WA,48668,1999-06-14,On Leave
+1578,Jennifer,Lewis,daniel.martinez@company.com,2022-10-19,Software Engineer,Sales,45000,2004,9343 Birch Ave,Los Angeles,MO,10704,1975-10-07,Inactive
+1863,anthony,Sanchez,THOMAS.SMITH@COMPANY.COM,2020-05-11,Architect,Marketing,75000,2004,1307 Cedar Rd,San Diego,MO,34034,1981-10-16,Inactive
+1679,Anthony,Martinez,karen.sanchez@company.com,2024-04-30,Lead,Analytics,105000,2010,5386 Birch Drive,Fort Worth,NY,49061,1990-03-06,On Leave
+1839,David,Sanchez,mark.robinson@company.com,2017-08-17,Software Engineer,Marketing,95000,2007,4362 Ash Lane,Houston,NY,23393,1981-08-01,Inactive
+1622,steven,Martinez,charles.smith@company.com,2024-05-16,Lead,Marketing,105000,2002,5507 Birch Court,Columbus,VA,23819,1967-03-25,Active
+1799,Matthew,Rodriguez,linda.harris@company.com,2024-01-16,Data Analyst,Sales,95000,2009,5818 Oak Rd,San Francisco,IL,51933,1962-11-04,Active
+1779,linda,DAVIS,anthony.anderson@company.com,2022-04-08,Manager,Sales,75000,2005,,Dallas,CA,32970,1982-12-29,Active
+1339,Patricia,Ramirez,matthew.davis@company.com,2021-11-26,Developer,Analytics,95000,2009,7078 Ash Drive,Seattle,MO,43526,1979-05-01,Active
+1958,Emma,Jones,robert.moore@company.com,2026-10-14,Developer,Sales,55000,2002,1105 Birch Rd,Seattle,MO,27354,1989-09-01,On Leave
+1358,Lisa,Miller,jennifer.wilson@company.com,2016-11-28,Software Engineer,HR,75000,2003,7948 Oak Drive,San Francisco,MO,11045,1991-09-22,Inactive
+1464,Alice,Moore,jessica.davis@company.com,2017-01-29,Architect,Analytics,"$65,000",2007,4217 Cedar Lane,Seattle,MD,,1988-01-16,Active
+1641,James,Harris,robert.lewis@company.com,2020-06-01,Manager,IT,"$55,000",2004,9186 Willow Court,Houston,NC,17151,1997-03-14,Inactive
+1466,James,JONES,mark.williams@company.com,2020-11-11,Architect,Sales,105000,2003,8178 Willow Ave,Dallas,MA,69567,1963-09-03,Inactive
+1197,Nancy,Moore,NANCY.ROBINSON@COMPANY.COM,2027-10-28,Data Analyst,IT,35000,,9275 Ash Rd,Austin,FL,77147,1985-03-11,Active
+1971,Mary,Anderson,lisa@invalid,2020-02-05,Analyst,Sales,45000,,,San Antonio,CO,28002,1960-08-12,Inactive
+1898,Richard,Hernandez,mary.smith@company.com,2020-08-23,Manager,IT,"$35,000",2005,8724 Ash Blvd,Chicago,PA,72718,1998-01-20,Inactive
+1864,jane,RODRIGUEZ,steven.johnson@company.com,2022-03-12,Data Analyst,Finance,65000,2006,894 Elm Court,,,72915,1983-01-21,Inactive
+1155,James,Clark,SARAH.THOMAS@COMPANY.COM,2024-10-04,Analyst,Operations,65000,2008,5348 Main Ave,San Francisco,IN,38395,1999-09-04,On Leave
+1513,Richard,Wilson,john.davis@company.com,2022-02-21,Software Engineer,HR,"$105,000",2001,3432 Birch Court,Phoenix,MO,35519,1974-01-25,On Leave
+1082,Nancy,White,daniel.jackson@company.com,2020-10-05,Lead,Operations,"$45,000",2002,259 Main Court,Austin,MA,73784,1972-06-24,Inactive
+1857,Lisa,Harris,sarah.wilson@company.com,2020-05-06,Manager,Engineering,"$105,000",,6408 Spruce Way,New York,VA,76164,1992-02-02,Inactive
+1594,Emma,MARTIN,barbara.taylor@company.com,2021-09-12,Developer,Finance,35000,2005,7816 Oak Rd,Fort Worth,WA,23563,1997-12-28,Inactive
+1813,Lisa,Martin,karen.smith@company.com,2016-04-27,Architect,Engineering,65000,2001,1664 Pine Ave,San Antonio,TN,57274,1980-08-03,On Leave
+1600,Thomas,HERNANDEZ,thomas@invalid,2018-09-08,Lead,HR,95000,2003,9609 Willow Ave,,MO,60243,1981-08-22,Active
+1405,Daniel,MARTIN,richard.anderson@company.com,2024-02-17,Lead,Operations,55000,2001,2995 Willow St,San Francisco,NY,50103,1964-05-17,Active
+1379,Charles,Johnson,michael.ramirez@company.com,2020-12-14,Consultant,Analytics,35000,2008,7333 Cedar Drive,Boston,TX,18478,1991-03-13,On Leave
+1549,John,Thompson,robert.johnson@company.com,2017-01-29,Software Engineer,HR,"$65,000",2009,3601 Willow St,Houston,MO,96187,1964-01-09,Active
+1142,Barbara,Johnson,charles.taylor@company.com,2017-11-27,Consultant,Engineering,55000,2009,3539 Pine St,,MI,20780,1998-01-17,Active
+1874,Steven,Lewis,thomas.jackson@company.com,2023-04-11,Data Analyst,Analytics,75000,2001,1574 Ash Way,New York,IL,61982,1995-08-01,Active
+1364,David,Miller,nancy.white@company.com,2021-05-30,Consultant,Engineering,95000,,272 Maple Way,Los Angeles,NY,39775,1967-11-16,Inactive
+1473,Mary,Ramirez,mark.brown@company.com,2019-05-10,Consultant,Engineering,55000,2006,6054 Pine Lane,Dallas,CA,92655,1978-08-14,Inactive
+1819,Mary,RODRIGUEZ,michael.white@company.com,2020-10-21,Manager,IT,95000,2006,6288 Pine Drive,,GA,27472,1992-09-21,Active
+1241,Mark,White,jennifer.miller@company.com,2024-03-16,Software Engineer,IT,35000,2010,1243 Birch Drive,Los Angeles,IL,76772,1965-11-05,Active
+1295,Susan,WHITE,JOHN.WHITE@COMPANY.COM,2022-10-28,Architect,Analytics,45000,2004,9529 Birch Court,San Diego,NJ,,1964-01-08,On Leave
+1418,Mary,WHITE,steven.martin@company.com,2018-02-20,Consultant,Analytics,"$35,000",2007,6313 Birch Ave,Philadelphia,OH,41296,1967-09-09,Active
+1765,sarah,HERNANDEZ,daniel.thomas@company.com,2016-05-08,Software Engineer,Sales,65000,2008,7172 Cedar Rd,Fort Worth,OH,73679,1984-01-24,On Leave
+1546,Charles,Moore,james.johnson@company.com,2017-10-03,Architect,Sales,"$65,000",2001,3435 Birch St,Los Angeles,MI,96596,1984-11-23,Active
+1451,Anthony,Moore,susan.lewis@company.com,2026-07-06,Developer,Finance,"$45,000",2010,9517 Cedar Ave,Fort Worth,TX,91140,1984-11-11,Inactive
+1604,Sarah,Jones,nancy.ramirez@company.com,2016-08-06,Data Analyst,Engineering,65000,2002,1633 Maple Ave,Los Angeles,CA,87287,2000-11-02,Active
+1274,John,MARTIN,linda@invalid,2027-01-25,Developer,Finance,"$55,000",2007,8643 Main Drive,Phoenix,GA,91215,1985-01-31,Active
+1678,Thomas,Clark,daniel.brown@company.com,2017-02-21,Analyst,Engineering,65000,2006,191 Pine Ave,Houston,OH,79777,1985-07-22,Inactive
+1243,Barbara,Taylor,daniel.miller@company.com,2017-09-27,Architect,Engineering,85000,2010,3624 Birch Way,San Jose,AZ,,1995-10-12,On Leave
+1815,Linda,Hernandez,sarah.martin@company.com,2017-08-18,Software Engineer,HR,75000,2003,7908 Spruce Way,Columbus,FL,70795,1991-10-10,Active
+1785,Richard,Anderson,charles.rodriguez@company.com,2021-12-23,Manager,Engineering,65000,2010,6728 Spruce St,Fort Worth,NJ,17847,1995-11-18,Inactive
+1502,Thomas,White,emma.smith@company.com,2024-01-13,Lead,Engineering,65000,2010,3099 Elm Ave,Chicago,MD,76247,1973-11-04,On Leave
+1017,Barbara,Thomas,patricia@invalid,2018-11-25,Developer,Finance,75000,2004,2538 Oak Drive,Denver,NC,70551,1988-07-08,On Leave
+1540,Jennifer,THOMAS,RICHARD.WILSON@COMPANY.COM,2024-10-05,Consultant,Marketing,"$85,000",,3825 Elm Rd,San Francisco,MA,35775,1989-12-09,Active
+1745,Charles,Brown,john.jones@company.com,2020-01-09,Developer,Sales,"$105,000",2001,4756 Main Court,Fort Worth,MO,67826,1982-01-04,On Leave
+1758,Thomas,Rodriguez,barbara.johnson@company.com,2021-04-21,Data Analyst,Marketing,75000,2006,738 Cedar St,Columbus,TN,23372,1972-01-12,Active
+1034,Robert,Hernandez,thomas.johnson@company.com,2025-01-10,Analyst,HR,85000,2002,7484 Elm Ave,Dallas,MD,68800,1984-02-03,Active
+1962,Alice,Miller,DAVID.JACKSON@COMPANY.COM,2021-03-08,Developer,HR,35000,2002,3447 Main Court,Phoenix,WA,56389,1996-06-04,On Leave
+1285,David,Martin,alice.wilson@company.com,2021-05-03,Consultant,IT,95000,2003,3051 Elm Ave,Denver,MO,53574,1986-10-24,Inactive
+1355,John,Smith,JENNIFER.DAVIS@COMPANY.COM,2023-05-20,Lead,Operations,"$35,000",2005,6499 Cedar St,Philadelphia,GA,86911,1969-04-12,Inactive
+1544,John,Miller,steven.davis@company.com,2024-11-26,Data Analyst,Finance,65000,2002,4389 Main St,New York,FL,12439,1991-05-30,Inactive
+1980,mary,HARRIS,richard.williams@company.com,2024-02-14,Architect,Sales,85000,2003,8297 Pine St,Chicago,MO,82021,1960-11-24,On Leave
+1932,david,Martinez,alice.wilson@company.com,2023-01-31,Data Analyst,Engineering,105000,2002,3846 Cedar Court,Seattle,TN,13288,1999-12-12,Inactive
+1351,Patricia,Moore,mary.hernandez@company.com,2022-07-10,Architect,IT,105000,2001,3764 Spruce St,San Francisco,CA,41475,1980-07-24,Inactive
+1948,Alice,Ramirez,robert.white@company.com,2018-06-05,Software Engineer,IT,105000,2004,535 Birch Blvd,,OH,21438,1986-12-23,Inactive
+1214,robert,Moore,daniel.harris@company.com,2016-09-24,Consultant,Operations,105000,2003,2620 Cedar St,San Antonio,MD,42334,1978-02-05,Inactive
+1995,Barbara,Rodriguez,michael@invalid,2022-04-03,Consultant,Analytics,"$75,000",2008,7355 Ash Lane,Indianapolis,FL,54248,1992-10-27,Inactive
+1277,Richard,Smith,patricia.miller@company.com,2024-01-14,Software Engineer,Sales,65000,2004,7290 Pine Court,Philadelphia,AZ,61143,1999-05-19,Active
+1881,David,Johnson,john.johnson@company.com,2020-02-15,Manager,HR,105000,,9343 Pine Way,Los Angeles,,36179,1973-06-07,Active
+1477,Richard,HERNANDEZ,jessica.thompson@company.com,2016-11-01,Architect,Finance,35000,2005,2425 Birch Way,San Diego,VA,90880,1969-08-29,Active
+1642,Matthew,Brown,robert.moore@company.com,2022-09-18,Developer,IT,35000,2005,3439 Cedar Rd,Seattle,IL,58743,1996-01-25,On Leave
+1057,David,White,richard.williams@company.com,2018-07-13,Lead,Finance,55000,2007,7590 Maple St,Jacksonville,PA,92947,1962-08-31,Inactive
+1871,Linda,MARTINEZ,mary.clark@company.com,2018-07-18,Lead,Engineering,75000,2001,108 Spruce Way,Los Angeles,MD,88189,1991-09-11,Inactive
+1734,Sarah,Wilson,alice.lopez@company.com,2023-09-20,Manager,IT,"$105,000",2002,4965 Cedar Lane,San Diego,GA,68419,1963-02-20,On Leave
+1583,Barbara,Lopez,anthony.anderson@company.com,2025-01-06,Lead,Engineering,105000,2002,1653 Birch Blvd,Fort Worth,FL,43651,1973-04-15,On Leave
+1039,Daniel,Rodriguez,david.miller@company.com,2017-08-17,Software Engineer,IT,105000,2006,6067 Willow Ave,Austin,MD,67587,1996-07-18,On Leave
+1725,daniel,Williams,mark@invalid,2021-05-05,Developer,HR,75000,2010,7184 Maple Ave,New York,NY,32510,1981-04-24,Inactive
+1130,susan,Brown,anthony.miller@company.com,2022-11-21,Manager,IT,45000,2003,,Denver,NJ,14472,1980-10-08,Active
+1101,Emma,Anderson,steven.davis@company.com,2018-12-22,Software Engineer,Operations,55000,2001,6493 Birch Drive,San Francisco,AZ,81755,1991-01-03,Active
+1381,Steven,LEE,michael.jones@company.com,2024-01-22,Software Engineer,Sales,75000,2006,5531 Oak Court,Charlotte,CA,10918,1979-09-15,On Leave
+1956,emma,Thompson,thomas.white@company.com,2020-11-06,Architect,Finance,95000,2007,4519 Pine Ave,Seattle,IN,84430,1966-07-22,Active
+1298,Jane,SANCHEZ,john.martin@company.com,2017-03-17,Architect,Finance,105000,2001,1614 Ash Rd,Houston,IN,95490,1963-07-30,Active
+1588,Jane,Jones,robert.harris@company.com,2019-04-18,Data Analyst,HR,95000,,1620 Ash Ave,San Diego,WA,13717,1964-04-13,Inactive
+1278,Patricia,Davis,jessica.davis@company.com,2022-02-06,Manager,Marketing,45000,2002,6837 Cedar Ave,Dallas,NJ,90504,1994-04-17,Active
+1440,Anthony,Sanchez,patricia.lewis@company.com,2016-09-01,Manager,Analytics,105000,2002,9413 Spruce Rd,Austin,CA,37209,1987-01-23,Active
+2018,Steven,TAYLOR,barbara.lee@company.com,2027-05-03,Lead,Analytics,85000,2005,525 Pine Ave,Houston,CO,10315,1968-10-14,Inactive
+1686,Donald,Robinson,mary@invalid,2019-01-04,Manager,Sales,95000,2004,7407 Cedar St,Houston,WA,75606,1995-12-06,Inactive
+1211,Daniel,Smith,mark@invalid,2017-07-24,Analyst,Engineering,95000,2010,6335 Elm Court,Chicago,,53371,1989-09-29,Active
+1395,Jennifer,Brown,linda.hernandez@company.com,2018-12-13,Developer,Sales,75000,2008,84 Maple Drive,Chicago,NY,72038,1964-12-15,Active
+1220,Barbara,Lee,michael.ramirez@company.com,2023-09-28,Lead,Finance,75000,2004,7537 Oak Ave,Boston,MI,81299,1975-12-20,Inactive
+1917,Lisa,Jackson,donald.harris@company.com,2020-12-14,Data Analyst,Analytics,45000,2005,3726 Birch Drive,San Diego,IN,65730,1980-12-21,On Leave
+1394,Thomas,Thomas,barbara.harris@company.com,2016-07-17,Developer,Sales,"$85,000",2010,8135 Ash Drive,Seattle,,50833,1975-12-04,Inactive
+1397,Sarah,Sanchez,emma.wilson@company.com,2019-05-21,Developer,Engineering,85000,2006,30 Ash St,Houston,IN,71589,1960-11-16,Inactive
+1939,sarah,Moore,mary.lopez@company.com,2021-09-05,Analyst,Engineering,55000,2007,6666 Ash Drive,Seattle,,15153,1962-10-10,On Leave
+1928,Mark,Moore,emma.smith@company.com,2017-12-11,Architect,Analytics,45000,2004,3591 Main Ave,,IL,,1970-11-05,Inactive
+1372,John,SMITH,patricia.williams@company.com,2020-04-12,Consultant,Marketing,85000,2008,5817 Spruce Drive,San Jose,MO,15479,1982-05-20,On Leave
+1670,anthony,Davis,james@invalid,2018-09-14,Architect,Sales,45000,2005,5721 Elm Lane,Columbus,MA,99789,1993-09-13,Inactive
+1006,Sarah,Taylor,DANIEL.HARRIS@COMPANY.COM,2027-08-16,Developer,Marketing,"$65,000",2003,8286 Maple Ave,Jacksonville,IL,15229,1983-09-30,Inactive
+1076,Mark,Martinez,mary.sanchez@company.com,2023-02-20,Software Engineer,Engineering,105000,2002,7582 Maple Lane,Houston,IN,62223,1986-08-05,Inactive
+1769,Alice,JACKSON,ALICE.JONES@COMPANY.COM,2023-05-02,Architect,Marketing,85000,2008,9326 Oak Lane,Boston,IN,45804,1962-12-13,On Leave
+1159,sarah,Wilson,karen.white@company.com,2021-02-03,Developer,Operations,95000,2004,8470 Pine Blvd,New York,CA,97066,1992-10-01,Active
+1796,John,Davis,emma.thomas@company.com,2024-07-21,Architect,Sales,105000,2006,9029 Oak Ave,Indianapolis,FL,99714,1962-08-30,Active
+1842,Barbara,Brown,donald.lewis@company.com,2016-04-20,Architect,Sales,85000,,3543 Ash Blvd,Dallas,FL,56591,1987-12-22,On Leave
+1484,john,Miller,john.lewis@company.com,2018-09-24,Lead,Operations,75000,2005,5125 Birch Rd,New York,CA,73572,1996-05-24,On Leave
+1933,Susan,Harris,karen.jones@company.com,2017-01-22,Developer,Operations,55000,2001,3457 Oak Drive,Los Angeles,NC,83619,1964-09-11,On Leave
+1254,charles,Martinez,nancy.lee@company.com,2023-08-30,Lead,Marketing,55000,2001,1027 Ash Lane,Boston,MI,,1989-03-08,On Leave
+1495,John,Williams,richard.clark@company.com,2019-12-07,Developer,Operations,45000,2010,271 Elm Way,Austin,IN,14603,2000-06-17,On Leave
+1164,Jessica,Wilson,KAREN.ROBINSON@COMPANY.COM,2019-03-30,Software Engineer,IT,"$55,000",2002,7158 Ash Way,Chicago,CO,87576,1961-06-19,Inactive
+1410,Jane,JONES,john.moore@company.com,2018-02-23,Analyst,Analytics,65000,2010,1430 Elm Court,New York,NC,52626,1980-02-21,Inactive
+1776,Sarah,Hernandez,steven.miller@company.com,2020-06-15,Software Engineer,Operations,45000,,7172 Pine Lane,Philadelphia,MD,96466,1987-01-27,Inactive
+1329,Barbara,Robinson,michael.williams@company.com,2023-02-16,Data Analyst,Analytics,35000,2007,,Phoenix,CA,27112,1990-07-21,Active
+1032,Alice,Martin,sarah.martinez@company.com,2023-05-31,Architect,IT,75000,2003,1 Maple Ave,Los Angeles,IN,43234,1960-12-29,Inactive
+1320,Susan,CLARK,linda.thomas@company.com,2022-08-19,Consultant,Analytics,85000,2002,8050 Birch Drive,Phoenix,FL,51963,1976-11-07,Active
+1198,John,MARTINEZ,charles.johnson@company.com,2019-01-28,Analyst,Sales,75000,2007,8556 Pine Blvd,Philadelphia,TN,21266,1973-01-20,Active
+1416,Nancy,Johnson,STEVEN.JONES@COMPANY.COM,2023-06-30,Lead,Analytics,35000,2006,7710 Oak Rd,Phoenix,MI,70589,1996-09-21,Active
+1521,Lisa,Ramirez,karen.hernandez@company.com,2023-10-15,Software Engineer,IT,"$105,000",2004,9027 Pine Blvd,San Antonio,NC,65143,1984-03-22,Active
+1507,Anthony,Thompson,patricia.thomas@company.com,2022-01-12,Consultant,Finance,45000,,4567 Maple Court,,PA,61472,1987-12-04,Inactive
+1299,Mark,Martin,mark.davis@company.com,2023-01-09,Consultant,Sales,65000,2010,6795 Willow Drive,San Jose,CA,75040,1974-10-24,On Leave
+1095,Linda,Jones,jane.brown@company.com,2019-08-22,Lead,Operations,65000,2008,6422 Oak Blvd,San Jose,WA,42820,1983-06-07,Inactive
+1555,Mark,Rodriguez,emma.davis@company.com,2016-04-20,Software Engineer,Finance,85000,2006,3305 Willow Blvd,Boston,NC,82929,1967-03-21,Inactive
+1902,mark,Jones,steven.martinez@company.com,2019-12-10,Architect,HR,75000,2005,8412 Spruce Blvd,San Diego,IN,78465,1988-09-04,On Leave
+1186,Patricia,Robinson,matthew.lopez@company.com,2018-01-04,Lead,Analytics,65000,2006,2115 Pine Court,Seattle,IN,82464,1986-03-26,On Leave
+1235,Susan,Brown,emma@invalid,2020-11-04,Developer,HR,65000,2009,3763 Elm Drive,Dallas,OH,,1987-06-14,On Leave
+1402,Alice,Lewis,mark.harris@company.com,2017-10-12,Manager,IT,35000,2008,6110 Ash St,Austin,WA,19140,1974-03-15,On Leave
+1784,Robert,Sanchez,richard.smith@company.com,2024-06-07,Developer,Finance,95000,2007,5351 Willow Lane,Indianapolis,IN,86778,1967-09-24,Inactive
+1449,Lisa,Jackson,michael.ramirez@company.com,2026-03-24,Manager,HR,55000,2004,4718 Oak Ave,New York,MO,84720,1962-09-21,Inactive
+1568,matthew,LOPEZ,karen.thompson@company.com,2022-02-21,Analyst,Analytics,85000,2006,4536 Elm Court,Dallas,MA,10715,1992-03-28,On Leave
+1924,Lisa,Miller,michael.jones@company.com,2028-02-02,Software Engineer,Finance,55000,2005,7755 Oak Ave,Los Angeles,AZ,75636,2000-04-30,On Leave
+1800,Robert,Lopez,daniel.lee@company.com,2021-01-30,Analyst,Marketing,85000,2004,1300 Cedar Rd,Chicago,FL,90043,1989-10-01,On Leave
+1478,nancy,HARRIS,james.brown@company.com,2019-09-08,Manager,Engineering,55000,2002,161 Cedar St,Dallas,PA,96026,1960-09-27,Inactive
+1300,susan,Jackson,john.jones@company.com,2020-04-09,Manager,HR,"$55,000",2004,,Indianapolis,CA,,1962-06-19,On Leave
+1706,Matthew,Robinson,jane.lopez@company.com,2018-10-01,Architect,Operations,65000,2005,1658 Oak Way,New York,NY,61429,1973-07-11,Active
+1542,David,Brown,karen.lewis@company.com,2018-10-05,Architect,Finance,"$105,000",2005,1804 Spruce St,San Jose,IN,,1964-06-07,Inactive
+1977,David,White,steven.sanchez@company.com,2025-01-05,Manager,Operations,65000,2004,3883 Willow Lane,Austin,GA,56117,1975-10-19,On Leave
+1572,Michael,Smith,patricia.rodriguez@company.com,2020-06-18,Manager,HR,45000,2008,5360 Pine Court,Columbus,NJ,31413,1988-01-21,Active
+1183,thomas,Moore,mark.williams@company.com,2020-03-09,Developer,Sales,"$35,000",2009,1333 Willow Court,Denver,MO,13696,1978-12-31,Inactive
+1524,John,Sanchez,jennifer.thompson@company.com,2016-08-04,Analyst,Finance,105000,2001,9407 Elm Way,Columbus,MI,25293,1965-08-20,Inactive
+1073,Jennifer,Johnson,alice@invalid,2016-06-16,Consultant,Marketing,105000,2010,2963 Willow Ave,San Jose,NJ,55461,1972-07-10,Inactive
+1806,Donald,Rodriguez,emma.martinez@company.com,2017-02-19,Software Engineer,Engineering,75000,,,Denver,FL,44337,1988-04-22,On Leave
+1156,jane,Williams,karen.robinson@company.com,2022-11-22,Data Analyst,Finance,55000,2003,186 Cedar Lane,Austin,OH,15140,1987-04-29,On Leave
+1182,Sarah,WILSON,susan.jackson@company.com,2022-05-24,Consultant,Operations,55000,,,Philadelphia,GA,33920,1988-05-12,Inactive
+1959,Nancy,Anderson,james.miller@company.com,2023-10-02,Consultant,Engineering,"$35,000",2004,9813 Pine Rd,Charlotte,MA,76223,1992-07-08,Inactive
+1217,Susan,Moore,richard.smith@company.com,2021-04-03,Developer,Finance,65000,2009,1120 Oak Blvd,Philadelphia,VA,80405,1964-01-24,Inactive
+1547,Nancy,Hernandez,JAMES.LOPEZ@COMPANY.COM,2020-01-02,Developer,Sales,85000,,,Columbus,MO,54422,1962-09-23,On Leave
+1216,David,HARRIS,PATRICIA.MARTINEZ@COMPANY.COM,2021-08-28,Analyst,Marketing,"$45,000",2003,9860 Maple Lane,Austin,WA,35385,1988-01-13,Active
+1178,Steven,Lee,michael@invalid,2024-11-21,Developer,HR,75000,2006,1755 Elm Drive,Los Angeles,NJ,79190,1963-07-29,On Leave
+1522,Barbara,Harris,anthony.hernandez@company.com,2027-04-19,Software Engineer,Operations,35000,2006,4631 Spruce Ave,New York,NC,63231,1982-06-12,Active
+1628,Jane,Harris,ROBERT.ROBINSON@COMPANY.COM,2020-06-20,Consultant,Finance,65000,2005,7631 Maple Drive,Boston,GA,58819,1979-07-31,On Leave
+1344,Thomas,MILLER,matthew.thompson@company.com,2027-06-01,Manager,Analytics,"$35,000",2003,3239 Birch Drive,San Jose,CA,83514,1986-11-13,Inactive
+1585,steven,TAYLOR,james.sanchez@company.com,2018-05-08,Analyst,Analytics,95000,2001,1703 Ash Ave,San Diego,PA,37902,1994-04-15,Inactive
+1575,Emma,Thompson,linda.martin@company.com,2021-06-19,Software Engineer,Analytics,45000,2007,4827 Willow St,San Antonio,AZ,21880,1967-04-16,On Leave
+1774,Anthony,RODRIGUEZ,alice.johnson@company.com,2017-12-02,Data Analyst,IT,95000,2003,,Seattle,FL,82794,1973-01-22,On Leave
+1592,david,Sanchez,mark.white@company.com,2019-09-09,Data Analyst,HR,75000,,7166 Ash Blvd,Jacksonville,FL,59373,1971-07-16,Inactive
+1558,Matthew,Smith,robert.sanchez@company.com,2021-12-05,Software Engineer,Engineering,105000,2008,8234 Spruce Drive,Seattle,TX,96431,1992-07-12,On Leave
+1318,Susan,Rodriguez,steven.lewis@company.com,2018-06-17,Analyst,Analytics,"$95,000",2003,6693 Willow Court,New York,GA,54964,1968-08-10,Active
+1055,Charles,Ramirez,jennifer.smith@company.com,2023-11-04,Architect,Operations,45000,2006,4383 Pine Lane,Boston,CO,52527,1992-08-31,Inactive
+1943,Matthew,Martin,robert.harris@company.com,2018-12-03,Analyst,Engineering,"$95,000",2007,5098 Cedar Court,Charlotte,NC,84036,1991-04-13,Active
+1581,Mary,Sanchez,jessica.martin@company.com,2024-04-07,Manager,Sales,75000,2009,4379 Willow Ave,Austin,WA,30698,1980-01-14,Active
+1212,Patricia,JOHNSON,daniel.lopez@company.com,2017-11-18,Developer,Sales,55000,2004,263 Cedar Way,Houston,MA,48602,1993-07-01,Inactive
+1190,Susan,White,john.wilson@company.com,2020-09-04,Manager,Engineering,95000,2001,8560 Cedar Rd,Jacksonville,WA,83906,2000-11-20,Active
+1330,Anthony,Sanchez,SARAH.ANDERSON@COMPANY.COM,2018-10-07,Analyst,Engineering,55000,2010,3436 Ash St,Philadelphia,OH,48181,1979-08-17,Inactive
+1564,John,Davis,linda.taylor@company.com,2022-01-31,Manager,IT,55000,2006,7214 Oak Rd,San Diego,IN,98327,1993-01-23,On Leave
+1074,barbara,LOPEZ,patricia.hernandez@company.com,2018-04-12,Architect,Sales,105000,2006,6795 Elm St,Phoenix,NJ,27684,1981-04-15,Active
+1390,Sarah,Robinson,steven.brown@company.com,2017-07-17,Analyst,HR,"$105,000",2007,7853 Main Lane,Fort Worth,NJ,79751,1984-04-06,Active
+1766,Anthony,BROWN,matthew.clark@company.com,2021-02-17,Data Analyst,HR,35000,2002,7359 Ash Rd,Dallas,MI,91278,1992-02-20,On Leave
+1792,Anthony,Davis,michael.smith@company.com,2022-09-14,Analyst,Sales,105000,2003,6139 Elm Court,San Antonio,AZ,29934,1995-03-06,On Leave
+1184,Thomas,Miller,patricia.clark@company.com,2019-01-14,Software Engineer,Analytics,65000,,9379 Spruce Way,Boston,WA,17797,1986-07-04,Active
+1530,Susan,Thompson,nancy.harris@company.com,2019-04-24,Software Engineer,HR,45000,2010,2379 Spruce Way,Philadelphia,,18408,1974-09-15,Active
+1306,Steven,Wilson,donald.robinson@company.com,2021-05-27,Developer,Sales,65000,2010,2761 Oak St,Houston,GA,66513,1974-08-28,Active
+1925,john,Martinez,sarah.smith@company.com,2024-11-16,Analyst,HR,85000,2009,2832 Birch Way,Houston,TX,26329,1978-03-08,Active
+1292,Emma,Miller,barbara.martin@company.com,2019-10-02,Data Analyst,Engineering,95000,2002,8249 Spruce St,New York,MA,59311,1997-03-08,On Leave
+1303,Nancy,Johnson,john.thomas@company.com,2024-01-18,Architect,Finance,"$35,000",2007,1296 Willow St,New York,VA,72340,1985-11-04,Active
+1332,Susan,Thompson,michael.martin@company.com,2021-04-19,Data Analyst,Sales,35000,2006,2920 Maple Court,Denver,CA,99425,1967-10-08,Active
+1685,Barbara,MOORE,mark.jones@company.com,2019-11-30,Architect,Operations,55000,2001,6390 Spruce Drive,Austin,CA,96148,1989-02-08,Active
+1556,Mary,DAVIS,mark.clark@company.com,2017-03-04,Software Engineer,Engineering,105000,2010,,Dallas,NJ,81442,1964-11-10,Inactive
+1849,Jessica,JONES,robert.lee@company.com,2024-02-23,Lead,IT,45000,2010,1573 Cedar Way,San Jose,CO,95492,1991-12-23,On Leave
+1307,Richard,Thomas,mary.thomas@company.com,2025-01-31,Analyst,Operations,"$85,000",2005,7269 Willow Rd,Fort Worth,FL,43110,1969-03-26,On Leave
+1173,John,Martinez,mary.harris@company.com,2021-05-27,Analyst,Operations,75000,2001,5169 Spruce Ave,Jacksonville,MI,18570,1967-07-22,Inactive
+1179,Matthew,Wilson,matthew.ramirez@company.com,2017-02-05,Architect,Engineering,55000,,5022 Pine Drive,Houston,VA,26387,1986-04-23,Inactive
+1960,Mary,White,jane.taylor@company.com,2022-12-11,Analyst,Sales,105000,2009,1812 Elm Ave,San Jose,MD,31625,1964-06-14,Active
+1775,Matthew,Clark,james@invalid,2026-07-28,Lead,Engineering,75000,,8233 Main Rd,Boston,CA,,1976-01-21,Active
+1517,Karen,Ramirez,james.rodriguez@company.com,2018-06-13,Architect,Engineering,"$95,000",2007,3025 Ash Rd,Denver,TN,54511,1977-08-21,Inactive
+1710,Robert,Johnson,david.lopez@company.com,2017-05-23,Lead,Sales,"$35,000",2003,3436 Oak Court,San Jose,AZ,62420,1974-09-04,Inactive
+1714,Jennifer,Thomas,robert.sanchez@company.com,2019-07-08,Manager,Analytics,35000,2002,3985 Cedar Ave,Phoenix,TN,76208,1961-12-15,Active
+1703,mary,Miller,matthew.hernandez@company.com,2023-03-22,Software Engineer,Sales,"$95,000",2003,4428 Ash Ave,Phoenix,VA,59834,1965-03-24,On Leave
+1579,Donald,Thomas,charles.sanchez@company.com,2023-09-27,Analyst,Operations,65000,2004,4752 Pine Ave,San Francisco,VA,37091,1971-06-24,Active
+1516,Matthew,Martin,jennifer.jones@company.com,2016-05-08,Architect,HR,35000,2001,7031 Elm Court,San Francisco,IL,17230,1985-12-23,Inactive
+1043,Karen,Lopez,donald.miller@company.com,2020-12-27,Developer,Analytics,105000,2003,137 Birch Drive,Seattle,TN,,1965-04-15,On Leave
+1824,Mark,Smith,thomas.clark@company.com,2022-04-17,Data Analyst,Finance,35000,2008,5693 Main St,Dallas,GA,61629,1976-09-18,Inactive
+1053,Robert,Davis,lisa.jones@company.com,2020-07-16,Analyst,IT,105000,2010,4237 Oak Lane,Jacksonville,CA,87024,1984-07-11,Active
+1753,Robert,Hernandez,CHARLES.MARTIN@COMPANY.COM,2024-08-13,Manager,Operations,85000,2006,591 Elm Court,San Diego,CO,81325,1993-12-20,Inactive
+1188,Alice,Harris,nancy.brown@company.com,2017-01-16,Lead,HR,85000,2009,7591 Pine St,Jacksonville,AZ,11154,1971-08-14,On Leave
+1700,Matthew,Lee,donald@invalid,2022-12-21,Manager,Marketing,85000,2002,,Seattle,NY,84884,1965-05-10,Inactive
+1847,Mark,Taylor,anthony.rodriguez@company.com,2016-12-12,Software Engineer,Sales,85000,2006,8472 Pine Rd,Houston,VA,,1967-07-30,Active
+1950,Patricia,JOHNSON,robert.miller@company.com,2016-12-03,Consultant,Finance,45000,2009,6043 Oak Lane,Seattle,,72418,1992-12-25,Inactive
+1072,lisa,Taylor,nancy.davis@company.com,2021-08-01,Architect,Marketing,95000,2005,88 Cedar Rd,Denver,IL,54601,1975-12-18,Inactive
+1069,Linda,White,david.smith@company.com,2020-10-13,Consultant,HR,"$75,000",2001,7826 Oak Blvd,Fort Worth,WA,65402,1990-01-04,Inactive
+1803,Jennifer,TAYLOR,charles.harris@company.com,2019-02-12,Developer,Operations,95000,2005,2979 Elm St,Fort Worth,TN,40854,1987-10-26,Active
+1180,David,WILSON,alice@invalid,2018-08-11,Consultant,Operations,"$105,000",2008,4058 Pine Court,Jacksonville,IL,85915,1982-05-18,Inactive
+1075,John,Anderson,richard@invalid,2023-05-05,Manager,Sales,105000,2002,1632 Pine Ave,Dallas,MD,36580,1971-11-30,Inactive
+1401,Karen,Hernandez,robert.thompson@company.com,2022-02-18,Developer,Analytics,55000,2006,9909 Spruce Way,Denver,,87564,1979-04-23,Active
+1208,Sarah,Thomas,emma.johnson@company.com,2027-12-28,Analyst,Marketing,45000,2002,,Phoenix,NJ,86120,1998-02-24,Inactive
+1242,Mark,Robinson,jennifer.williams@company.com,2025-01-14,Architect,HR,"$105,000",2010,6277 Pine Lane,Indianapolis,MA,33643,1992-04-05,On Leave
+1219,Anthony,Thomas,thomas.moore@company.com,2021-03-07,Data Analyst,IT,35000,2005,9653 Ash Way,San Jose,MA,65298,1993-11-01,Inactive
+1105,jane,Miller,emma.jones@company.com,2024-12-31,Lead,Marketing,55000,2001,9542 Birch Way,San Francisco,NJ,86684,1963-01-13,Active
+1011,Daniel,Brown,patricia.lewis@company.com,2022-02-21,Analyst,Marketing,35000,2001,9059 Birch Court,Boston,MI,60660,1961-11-12,Inactive
+1897,Jane,Jones,david.lewis@company.com,2020-12-09,Developer,Operations,45000,2009,2219 Spruce Lane,Philadelphia,MO,10102,2000-05-29,Active
+1873,robert,Ramirez,jessica.jackson@company.com,2016-08-30,Lead,Engineering,45000,2003,4421 Oak Court,San Jose,CA,85187,1967-10-18,On Leave
+1317,Jessica,Jackson,alice.ramirez@company.com,2018-06-20,Developer,Operations,35000,2009,1608 Ash Ave,San Francisco,CO,90772,1976-10-02,On Leave
+1128,Mary,Hernandez,alice.jones@company.com,2017-07-18,Lead,IT,105000,2006,8242 Birch Court,San Diego,WA,48806,1966-07-29,Inactive
+1038,Charles,Smith,richard.hernandez@company.com,2018-12-21,Analyst,Engineering,"$45,000",2001,577 Pine Lane,Philadelphia,MA,58222,1964-07-20,On Leave
+1479,Linda,ANDERSON,thomas.brown@company.com,2022-11-15,Consultant,Marketing,35000,2007,3078 Oak Way,Indianapolis,NY,69556,1978-05-06,On Leave
+1692,David,Moore,richard.jones@company.com,2016-03-12,Architect,IT,"$95,000",2005,9259 Birch St,San Antonio,MI,44740,1971-07-06,On Leave
+1510,Anthony,Lee,patricia.lopez@company.com,2016-08-02,Manager,Finance,"$95,000",2010,4560 Spruce Rd,Austin,MA,21454,1960-09-08,Inactive
+1884,Barbara,Thompson,emma.ramirez@company.com,2017-09-22,Consultant,Sales,35000,2007,541 Willow Drive,Columbus,MA,55588,1960-06-19,Inactive
+1151,Nancy,RAMIREZ,anthony.anderson@company.com,2020-07-31,Developer,IT,95000,2004,2620 Pine Court,Boston,CA,90666,1994-06-16,Active
+1378,Lisa,Williams,david.martinez@company.com,2019-04-11,Software Engineer,HR,105000,2002,343 Willow Ave,Phoenix,NY,,1992-04-12,On Leave
+1613,Mary,Robinson,david.white@company.com,2026-10-30,Analyst,Finance,"$55,000",2010,8897 Cedar Rd,Jacksonville,TX,91073,1977-05-03,On Leave
+2010,Sarah,Robinson,steven.brown@company.com,2017-07-17,Analyst,HR,"$105,000",2007,7853 Main Lane,Fort Worth,NJ,79751,1984-04-06,Active
+1281,John,Davis,john.ramirez@company.com,2019-10-12,Developer,Analytics,35000,2001,4969 Willow Blvd,San Jose,MO,78872,1999-11-18,Inactive
+1869,Lisa,Robinson,jessica.martin@company.com,2020-04-07,Software Engineer,Analytics,"$35,000",2002,4199 Maple Court,Indianapolis,,95480,1979-05-08,On Leave
+1429,Patricia,Miller,nancy.lopez@company.com,2024-10-06,Architect,Finance,35000,2009,4984 Birch Lane,Columbus,MO,10687,2000-05-16,Inactive
+1287,Patricia,THOMAS,john.harris@company.com,2022-07-03,Manager,Marketing,75000,2010,2091 Ash Court,Philadelphia,IN,82614,1983-01-13,Active
+1868,James,Lewis,nancy.martin@company.com,2017-10-19,Manager,Sales,105000,2005,9430 Cedar Court,Los Angeles,MA,41431,1993-12-03,Active
+1116,Jane,Hernandez,john@invalid,2016-07-12,Lead,HR,65000,2001,7822 Ash Court,San Francisco,OH,38749,1990-11-03,Active
+1574,mary,WHITE,mark.brown@company.com,2027-03-06,Analyst,Analytics,35000,2001,5407 Oak Blvd,Phoenix,TX,86278,1982-08-01,Active
+1608,Karen,Smith,jane.martin@company.com,2021-07-28,Developer,Engineering,85000,2008,1986 Maple Court,San Jose,MI,50872,2000-06-25,Active
+1083,Charles,Ramirez,susan.brown@company.com,2020-08-06,Analyst,IT,95000,2003,4103 Ash Rd,,,,1993-05-09,Inactive
+1386,steven,Lewis,michael@invalid,2019-05-07,Consultant,IT,35000,2001,9130 Willow Ave,San Antonio,IL,76657,1961-06-26,Inactive
+1192,mark,BROWN,karen.williams@company.com,2019-03-18,Software Engineer,Analytics,65000,2005,9094 Cedar Drive,Fort Worth,NC,67170,1994-03-21,Active
+1879,john,Rodriguez,john.jackson@company.com,2020-05-10,Consultant,HR,75000,2004,9826 Birch Blvd,Boston,NC,68629,1985-09-01,Active
+1236,Alice,Hernandez,matthew.miller@company.com,2019-05-30,Lead,HR,45000,2009,5230 Elm Rd,New York,NJ,83769,1962-03-29,Inactive
+1154,Karen,Jackson,anthony.lee@company.com,2021-04-20,Analyst,Engineering,45000,,5345 Elm Ave,Chicago,IL,35729,1979-05-24,Inactive
+1539,nancy,Rodriguez,donald.wilson@company.com,2018-08-31,Manager,Operations,55000,2003,6218 Pine Way,Los Angeles,FL,86249,2000-08-08,Inactive
+2009,linda,Taylor,thomas.smith@company.com,2026-09-25,Consultant,Operations,55000,2002,4376 Spruce Court,Columbus,VA,60066,1975-02-11,On Leave
+1016,Thomas,White,lisa.hernandez@company.com,2024-06-28,Data Analyst,Engineering,105000,,9275 Maple St,Los Angeles,MI,50439,1960-11-29,On Leave
+1438,Daniel,Rodriguez,lisa.jackson@company.com,2019-05-25,Software Engineer,Analytics,85000,2003,3289 Pine Lane,Philadelphia,GA,,1963-01-25,Active
+1560,lisa,Harris,anthony.davis@company.com,2020-01-07,Consultant,Analytics,55000,2006,2408 Ash Lane,Los Angeles,PA,72574,1996-04-29,Inactive
+1866,Patricia,Miller,alice.brown@company.com,2020-07-03,Analyst,Marketing,55000,2009,2582 Pine Blvd,Charlotte,NC,79895,1967-06-26,Inactive
+1716,Jessica,LOPEZ,thomas.smith@company.com,2017-02-06,Architect,Analytics,65000,2010,9486 Spruce St,,IL,71839,1976-05-23,On Leave
+1940,steven,Lewis,CHARLES.TAYLOR@COMPANY.COM,2021-06-29,Manager,HR,"$55,000",2009,4328 Birch Rd,Phoenix,NY,22968,1981-06-08,Inactive
+1567,Jane,Rodriguez,mary.martin@company.com,2023-09-13,Architect,Analytics,45000,2002,9310 Spruce Drive,Dallas,OH,75514,1982-05-25,Active
+1557,Patricia,LOPEZ,donald.taylor@company.com,2021-10-29,Manager,Engineering,95000,,,Dallas,OH,12864,1970-04-16,Active
+1269,Richard,Thompson,thomas@invalid,2016-06-16,Architect,Operations,55000,2004,3617 Main Blvd,Chicago,FL,90188,1964-12-05,Active
+1215,James,Rodriguez,donald@invalid,2024-10-04,Architect,Marketing,"$75,000",2004,4784 Pine Way,Dallas,TN,16521,1970-11-30,Active
+1625,Jane,THOMPSON,alice.clark@company.com,2023-06-18,Consultant,Sales,35000,2001,5681 Willow Drive,Houston,PA,72752,1994-05-18,Active
+1735,Jennifer,Wilson,jennifer.robinson@company.com,2019-04-02,Data Analyst,Sales,85000,2001,2611 Pine St,Seattle,CA,86939,1972-11-27,On Leave
+1657,Thomas,Taylor,nancy.jackson@company.com,2020-03-18,Manager,Analytics,45000,2010,3460 Maple Court,San Jose,OH,85695,1977-12-28,Active
+1523,emma,Clark,emma.martin@company.com,2017-05-14,Architect,IT,85000,2007,5299 Pine Ave,San Francisco,CO,40026,1994-02-18,On Leave
+1157,Anthony,Martin,nancy.jackson@company.com,2019-12-03,Data Analyst,IT,105000,2009,4050 Willow Blvd,Dallas,CO,51466,2000-12-01,On Leave
+1591,Mark,Martinez,mark.harris@company.com,2020-06-28,Developer,Analytics,75000,2009,7471 Cedar St,Austin,MA,62437,1977-02-02,On Leave
+1889,sarah,WHITE,james.white@company.com,2021-02-22,Data Analyst,IT,"$95,000",2004,875 Oak Way,San Francisco,AZ,89658,1975-08-29,Active
+1493,David,Brown,LISA.ROBINSON@COMPANY.COM,2017-09-24,Analyst,Finance,65000,2003,8687 Maple Drive,Houston,IL,47851,1970-05-07,On Leave
+1636,jessica,Lee,barbara.lopez@company.com,2020-10-25,Architect,Operations,75000,2001,8549 Spruce Rd,Seattle,,43961,1965-06-24,Inactive
+1107,Thomas,Harris,anthony.harris@company.com,2021-09-02,Consultant,Analytics,"$35,000",2004,92 Ash Ave,Charlotte,NC,81036,1961-02-06,Inactive
+1412,Susan,Robinson,charles.rodriguez@company.com,2023-05-03,Software Engineer,Finance,75000,,3171 Ash Court,San Francisco,IN,40252,1963-06-30,On Leave
+1780,mary,Wilson,linda.taylor@company.com,2017-10-27,Developer,Analytics,55000,2003,4572 Maple St,Columbus,IN,11888,1993-07-21,On Leave
+1915,Robert,LEWIS,john.smith@company.com,2017-08-21,Data Analyst,Analytics,35000,2006,7334 Pine Lane,San Diego,IL,43661,1979-02-04,Active
+1704,Thomas,Taylor,BARBARA.DAVIS@COMPANY.COM,2020-12-23,Lead,Marketing,85000,,,San Antonio,OH,99092,1983-12-04,On Leave
+1927,james,MARTINEZ,michael.martinez@company.com,2017-10-07,Data Analyst,Analytics,35000,2009,5585 Maple St,San Diego,NC,97898,1961-05-12,On Leave
+1953,Donald,JOHNSON,daniel.davis@company.com,2019-10-05,Consultant,Marketing,85000,2006,7289 Main St,San Diego,NC,74815,1969-05-28,Active
+1910,Linda,Clark,david.lewis@company.com,2022-11-21,Consultant,Engineering,45000,2009,2794 Ash St,San Francisco,CO,79544,1965-04-24,On Leave
+1365,richard,Moore,nancy.harris@company.com,2020-04-05,Lead,Operations,35000,2008,7378 Maple Lane,Houston,WA,44222,1999-10-30,Inactive
+1826,Patricia,Jackson,mary.johnson@company.com,2024-12-04,Data Analyst,Finance,85000,2004,2700 Ash St,Dallas,TN,99866,1982-09-09,On Leave
+1207,Barbara,Taylor,steven.davis@company.com,2020-04-18,Data Analyst,Engineering,45000,2001,2504 Maple Court,Houston,NC,20103,1970-10-04,Inactive
+1153,Susan,Brown,robert.rodriguez@company.com,2022-10-08,Developer,Operations,45000,2004,395 Ash Way,Dallas,TX,75289,1970-09-26,On Leave
+1990,Mary,Williams,michael.ramirez@company.com,2017-12-11,Architect,Engineering,45000,,2134 Cedar Ave,San Antonio,MA,78855,1969-02-09,On Leave
+1770,Patricia,Anderson,karen.martinez@company.com,2019-08-13,Consultant,Sales,45000,2007,8575 Elm Drive,Los Angeles,NY,29392,1976-02-27,Inactive
+1078,David,Harris,richard.rodriguez@company.com,2021-04-01,Architect,Operations,95000,2003,4197 Oak St,Philadelphia,FL,40279,1972-09-01,Inactive
+1049,Nancy,HARRIS,nancy.harris@company.com,2024-08-18,Data Analyst,Sales,95000,2006,1655 Oak Rd,San Antonio,OH,29731,1980-03-10,Active
+1118,Charles,Jackson,michael.anderson@company.com,2017-06-01,Data Analyst,Engineering,"$95,000",,1686 Main Lane,Boston,WA,72301,1992-04-17,On Leave
+1489,Steven,Rodriguez,MICHAEL.LOPEZ@COMPANY.COM,2018-03-01,Consultant,Engineering,65000,2010,7315 Main Drive,Dallas,PA,66101,1967-10-07,Active
+1414,anthony,Harris,robert.anderson@company.com,2019-01-03,Developer,HR,75000,2003,,Jacksonville,,45004,1978-03-17,Inactive
+1668,Sarah,Sanchez,matthew.wilson@company.com,2019-05-23,Software Engineer,Analytics,85000,,1294 Spruce Ave,Austin,IN,,2000-06-14,Active
+1036,Jane,Sanchez,jessica.hernandez@company.com,2018-12-31,Manager,Engineering,55000,2010,4280 Willow Drive,Boston,OH,52083,1978-08-13,On Leave
+1810,Jennifer,JOHNSON,mark.smith@company.com,2016-02-15,Data Analyst,Finance,55000,2006,6839 Main Blvd,San Antonio,CA,29354,1985-06-30,Active
+1967,John,LOPEZ,jane@invalid,2016-12-14,Consultant,IT,95000,2005,63 Ash Rd,Charlotte,IL,34333,1979-12-29,On Leave
+1503,David,Lewis,nancy.smith@company.com,2022-02-08,Software Engineer,Operations,65000,2002,788 Maple Lane,Columbus,NY,84230,1984-09-20,On Leave
+1196,Charles,Wilson,susan.sanchez@company.com,2027-06-29,Consultant,Finance,85000,2001,672 Maple St,San Francisco,MD,45560,1961-03-23,On Leave
+1111,Matthew,Taylor,mary.wilson@company.com,2019-05-16,Lead,IT,105000,2010,3010 Ash Drive,Los Angeles,IL,,1971-09-16,Inactive
+1635,Mark,THOMPSON,sarah.brown@company.com,2024-10-27,Analyst,Operations,65000,2008,3459 Oak Drive,Denver,CO,22048,1964-07-12,On Leave
+1031,Jennifer,Brown,karen.martin@company.com,2016-08-26,Data Analyst,Analytics,"$95,000",2004,1936 Birch St,Seattle,IL,72385,1981-04-08,Inactive
+1497,Richard,Lopez,alice.thompson@company.com,2023-06-24,Software Engineer,IT,105000,2001,8792 Ash Lane,Indianapolis,TX,67975,1982-02-19,Inactive
+1176,Alice,Robinson,donald.davis@company.com,2018-02-22,Analyst,IT,65000,2008,5549 Oak Way,Jacksonville,MD,16296,1964-04-16,Active
+1807,Steven,TAYLOR,barbara.lee@company.com,2027-05-03,Lead,Analytics,85000,2005,525 Pine Ave,Houston,CO,10315,1968-10-14,Inactive
+1589,alice,Williams,michael.rodriguez@company.com,2020-08-10,Analyst,Sales,35000,2006,8918 Ash Lane,Boston,MI,56926,1996-03-29,Inactive
+1988,Thomas,Robinson,john.robinson@company.com,2023-12-09,Software Engineer,Engineering,65000,2009,5030 Ash Way,Denver,TN,70554,1968-03-07,Inactive
+1893,Alice,Moore,patricia.ramirez@company.com,2018-12-24,Data Analyst,Finance,55000,2003,,Phoenix,WA,47312,1995-01-07,Active
+1471,Lisa,Martin,charles@invalid,2022-05-03,Software Engineer,HR,45000,2007,8865 Spruce Court,San Francisco,CO,55987,1995-02-20,Active
+1651,Mark,Lee,richard.jackson@company.com,2026-06-17,Consultant,Finance,55000,2002,5392 Main Lane,Austin,MO,37480,1996-10-05,On Leave
+1257,anthony,MARTINEZ,thomas.martinez@company.com,2017-12-04,Analyst,IT,85000,2008,700 Willow Court,New York,TX,86799,1974-05-25,Inactive
+1005,Mark,Harris,JANE.MARTINEZ@COMPANY.COM,2020-06-30,Lead,Engineering,55000,2004,3098 Willow Rd,San Antonio,PA,63160,1992-09-12,On Leave
+1611,david,Miller,steven@invalid,2018-04-11,Consultant,Engineering,65000,2002,253 Oak Ave,Chicago,MI,68057,2000-08-09,Active
+1931,Richard,Hernandez,emma.jackson@company.com,2027-04-20,Manager,Operations,45000,2008,3569 Elm Way,Chicago,NJ,32402,1970-11-16,Active
+2007,Alice,Harris,nancy.brown@company.com,2017-01-16,Lead,HR,85000,2009,7591 Pine St,Jacksonville,AZ,11154,1971-08-14,On Leave
+1986,Lisa,Sanchez,james.rodriguez@company.com,2020-04-14,Data Analyst,Marketing,95000,2006,6626 Cedar Way,Phoenix,WA,48035,1970-04-09,On Leave
+1437,Lisa,THOMAS,david.ramirez@company.com,2024-06-10,Software Engineer,Finance,45000,2004,9994 Birch St,Chicago,VA,88251,1977-05-20,On Leave
+1726,Alice,Thomas,daniel.jones@company.com,2017-10-09,Architect,HR,65000,2010,1450 Ash Lane,Charlotte,VA,11555,1998-02-08,Active
+1436,Lisa,Jackson,matthew.jones@company.com,2018-07-09,Software Engineer,IT,105000,2006,9011 Elm St,Philadelphia,FL,55411,1981-01-23,On Leave
+1833,Mark,Brown,matthew@invalid,2018-09-03,Analyst,HR,35000,,4421 Ash Ave,Chicago,NC,65707,1999-10-06,Active
+1617,Anthony,Thompson,john.miller@company.com,2021-07-09,Analyst,Analytics,75000,2010,2171 Ash Way,Columbus,NC,57409,1985-09-19,Inactive
+1880,Mary,Robinson,patricia.thompson@company.com,2022-04-18,Manager,Operations,105000,2008,1832 Elm Blvd,Indianapolis,CO,69172,1964-01-25,On Leave
+1009,Steven,CLARK,daniel.martinez@company.com,2023-03-17,Analyst,Marketing,"$35,000",2002,5843 Willow Lane,Columbus,PA,29156,1976-12-21,On Leave
+1936,Barbara,Brown,anthony.anderson@company.com,2019-10-30,Developer,Sales,"$75,000",2003,3397 Cedar Rd,Chicago,MD,55629,1971-08-24,Active
+1313,thomas,WHITE,matthew@invalid,2016-06-26,Lead,Sales,35000,2009,8779 Maple Court,New York,CO,91176,1974-04-16,Active
+1648,donald,Davis,charles.clark@company.com,2022-06-05,Lead,Analytics,95000,2007,9583 Oak Lane,Boston,CO,82689,1970-01-28,On Leave
+1027,Linda,Martin,jane.robinson@company.com,2021-01-10,Architect,Operations,55000,2010,1320 Maple Lane,Boston,NY,62308,1980-04-04,Inactive
+1465,Lisa,RAMIREZ,lisa@invalid,2018-12-26,Consultant,Finance,"$65,000",2004,4017 Main Blvd,Los Angeles,NY,69837,1998-07-28,Inactive
+1876,Mark,Jones,jennifer.taylor@company.com,2019-10-28,Architect,Engineering,85000,2002,2660 Ash Lane,Los Angeles,VA,96236,1995-09-26,On Leave
+1345,lisa,Clark,richard.jones@company.com,2021-01-03,Developer,IT,35000,2007,4297 Ash Lane,Austin,MI,58149,1993-10-27,Active
+1811,Matthew,Martinez,anthony.wilson@company.com,2019-10-02,Analyst,Sales,75000,2004,5006 Elm Way,Los Angeles,MD,49947,1964-10-23,Active
+1532,barbara,Clark,thomas.rodriguez@company.com,2019-01-17,Software Engineer,Marketing,35000,2008,3219 Willow Way,Philadelphia,MO,61050,1966-05-14,On Leave
+1231,John,Taylor,anthony.hernandez@company.com,2017-05-02,Architect,Engineering,"$45,000",2005,1305 Oak Ave,Denver,,24312,1965-03-28,Inactive
+1093,Emma,Miller,steven@invalid,2023-01-17,Developer,Analytics,35000,2009,3633 Cedar Rd,Indianapolis,NY,13760,1974-03-16,Inactive
+1337,Jennifer,Martin,mark.thompson@company.com,2020-09-23,Consultant,Engineering,"$75,000",2008,1008 Maple St,Dallas,NJ,84929,1962-08-17,On Leave
+1508,Matthew,Brown,jessica.moore@company.com,2017-09-06,Architect,Marketing,105000,2001,7574 Ash Rd,Phoenix,NY,35306,1990-09-28,On Leave
+1501,David,Smith,daniel.robinson@company.com,2021-11-11,Data Analyst,IT,55000,,7327 Pine Way,Phoenix,OH,88574,1968-01-19,Active
+1297,Nancy,Moore,charles.thompson@company.com,2023-03-02,Analyst,Marketing,"$85,000",,6471 Oak St,San Francisco,NJ,29036,1982-08-25,Active
+1650,Barbara,Lee,lisa.harris@company.com,2016-02-11,Developer,Finance,75000,2001,3160 Elm Rd,San Jose,TN,56084,1997-11-18,Active
+1830,Mark,Martinez,JANE.WILLIAMS@COMPANY.COM,2023-11-10,Lead,Engineering,75000,2010,2915 Ash Way,San Antonio,IL,23219,1995-12-28,Active
+1804,robert,SMITH,linda.lewis@company.com,2020-02-09,Lead,Marketing,65000,2007,699 Pine Drive,Fort Worth,MO,34001,2000-08-05,Active
+1989,Michael,LEE,jessica.wilson@company.com,2021-04-09,Architect,HR,95000,2009,4435 Main Rd,Chicago,,42022,1983-10-30,On Leave
+1263,Nancy,Brown,sarah.miller@company.com,2020-11-22,Software Engineer,Analytics,105000,2002,6764 Main Ave,Phoenix,MI,23180,1990-04-13,Active
+1158,Patricia,Thompson,linda.miller@company.com,2021-12-09,Analyst,Operations,105000,2004,2080 Ash St,Chicago,MI,13289,1964-08-16,On Leave
+1529,robert,White,linda.martin@company.com,2017-07-18,Manager,HR,85000,2002,8929 Ash Lane,San Francisco,MI,69625,1965-08-14,Inactive
+1350,daniel,Sanchez,RICHARD.RAMIREZ@COMPANY.COM,2024-11-14,Manager,HR,55000,2005,1878 Pine Rd,San Antonio,TN,11517,1993-05-23,Inactive
+1802,Jennifer,THOMPSON,patricia.clark@company.com,2016-06-24,Analyst,HR,"$95,000",2006,574 Cedar Court,Phoenix,MD,,1962-10-26,Inactive
+1400,susan,Ramirez,jennifer.lopez@company.com,2016-03-16,Software Engineer,Operations,65000,2010,4607 Main Rd,Chicago,MA,15404,1971-07-20,Inactive
+1213,Charles,MOORE,karen.thompson@company.com,2018-07-22,Consultant,Engineering,55000,2004,,Houston,GA,57547,1963-03-30,Inactive
+1771,John,LEE,robert.lewis@company.com,2021-10-26,Lead,Analytics,35000,2007,,San Diego,,97217,1968-06-20,Inactive
+1428,lisa,Martinez,anthony.lopez@company.com,2019-03-30,Manager,Analytics,75000,2006,8870 Elm Way,Jacksonville,CO,63672,1982-07-06,Inactive
+1883,Daniel,Taylor,alice.robinson@company.com,2021-04-30,Architect,Sales,45000,2002,4870 Main Court,Houston,,97391,1979-06-28,Active
+1831,Jane,Clark,jessica.williams@company.com,2024-12-15,Architect,Sales,65000,2004,1255 Oak Blvd,Denver,MI,,1962-10-19,Active
+1100,Matthew,BROWN,linda.davis@company.com,2023-01-15,Lead,Sales,55000,2005,256 Ash Drive,Jacksonville,TX,47050,1978-04-28,On Leave
+1870,Barbara,Thomas,jessica.johnson@company.com,2019-12-30,Architect,Analytics,35000,2009,5191 Elm Way,Dallas,FL,23721,1965-01-06,On Leave
+1844,Alice,Harris,john@invalid,2017-04-12,Consultant,Sales,"$95,000",2001,5121 Birch Rd,San Diego,WA,69914,1972-11-30,Inactive
+1071,Michael,Lewis,jessica.martin@company.com,2021-04-18,Software Engineer,IT,65000,2001,7878 Main Lane,Dallas,GA,16358,1998-09-28,On Leave
+1294,Steven,Sanchez,linda.johnson@company.com,2019-10-12,Lead,IT,95000,2009,3697 Ash Lane,Jacksonville,FL,30897,1999-10-22,On Leave
+1044,Patricia,Lewis,susan.lee@company.com,2017-05-05,Manager,Marketing,"$35,000",2001,7703 Pine Lane,Denver,TX,97478,1991-03-04,Active
+1941,James,Miller,jessica.wilson@company.com,2021-08-13,Lead,Finance,85000,2007,9021 Main Lane,San Antonio,NY,40624,1987-08-21,On Leave
+1504,Robert,Sanchez,richard.miller@company.com,2018-10-08,Software Engineer,IT,"$85,000",2005,6275 Cedar Ave,Columbus,MI,90163,1962-08-20,On Leave
+1895,Susan,Sanchez,donald.miller@company.com,2021-04-11,Manager,Operations,95000,,4271 Willow Way,Seattle,MI,10996,1960-09-01,Inactive
+1288,john,JACKSON,richard.smith@company.com,2024-11-20,Consultant,Finance,"$35,000",2009,580 Cedar Way,Jacksonville,FL,39905,1995-02-02,Inactive
+1456,Richard,Taylor,thomas.moore@company.com,2018-01-22,Architect,Operations,45000,2004,2361 Willow Lane,Chicago,AZ,78837,1975-07-11,Inactive
+1324,Michael,Ramirez,nancy.harris@company.com,2017-06-22,Consultant,Engineering,65000,2007,8802 Spruce St,Austin,NY,71991,1968-12-10,Inactive
+1289,Matthew,Williams,john.williams@company.com,2021-04-20,Software Engineer,Marketing,45000,2001,3741 Elm Ave,Denver,GA,99359,1994-07-26,Inactive
+1773,David,Brown,sarah.jones@company.com,2022-12-29,Data Analyst,Operations,85000,2001,7826 Elm Rd,New York,AZ,76198,1988-11-04,Inactive
+1323,donald,Williams,daniel.rodriguez@company.com,2016-08-13,Manager,HR,45000,2002,8946 Spruce Drive,San Antonio,OH,14543,1983-10-18,On Leave
+1185,karen,Jones,jessica.lee@company.com,2022-10-17,Analyst,Analytics,"$45,000",2005,3867 Elm Court,Denver,GA,95099,1986-06-08,Inactive
+1748,Mary,Miller,james@invalid,2025-01-14,Lead,Sales,"$75,000",2002,9224 Ash Blvd,Chicago,IN,38282,1986-11-25,Inactive
+1239,Jessica,RODRIGUEZ,lisa.miller@company.com,2018-12-18,Analyst,Sales,85000,2006,9026 Birch Blvd,San Antonio,NJ,30586,1994-01-07,Active
+1003,donald,Moore,james.martinez@company.com,2016-03-29,Data Analyst,Analytics,35000,2003,2423 Cedar Rd,San Diego,MA,14363,1991-05-06,Inactive
+1461,Barbara,CLARK,daniel.miller@company.com,2016-05-03,Architect,HR,"$95,000",2007,4653 Pine Lane,San Diego,AZ,84976,1982-11-20,Inactive
+1087,Linda,CLARK,david.sanchez@company.com,2018-03-02,Data Analyst,Operations,45000,2006,8175 Oak Way,Dallas,MD,75379,1985-05-02,Inactive
+1570,karen,WHITE,david.wilson@company.com,2018-06-19,Architect,Analytics,75000,2005,8570 Oak Blvd,San Francisco,CO,56939,1967-03-07,On Leave
+1683,David,Sanchez,daniel.lopez@company.com,2017-08-18,Consultant,Sales,"$75,000",2007,7619 Oak Lane,Austin,CO,19349,1994-11-28,On Leave
+1571,john,Thomas,mark.robinson@company.com,2017-08-25,Software Engineer,Sales,65000,2010,9169 Elm Way,Denver,OH,74201,1997-12-30,Inactive
+1010,Alice,Smith,nancy@invalid,2018-03-12,Data Analyst,Finance,"$65,000",2001,7295 Ash Court,Boston,OH,10518,1992-07-30,On Leave
+1434,Donald,WILLIAMS,MATTHEW.BROWN@COMPANY.COM,2018-08-10,Manager,HR,95000,,868 Willow Drive,Chicago,MD,46513,1972-12-24,Inactive
+1846,Jennifer,Thompson,sarah.ramirez@company.com,2018-11-17,Lead,Marketing,65000,2003,1689 Oak Blvd,Los Angeles,CO,44570,1977-02-22,On Leave
+1892,James,Smith,jessica@invalid,2024-10-01,Manager,Engineering,75000,2008,837 Ash Drive,Columbus,TN,66069,1995-02-08,Active
+1296,Nancy,Harris,emma.wilson@company.com,2019-04-09,Analyst,Operations,95000,2005,,Jacksonville,MA,88140,1962-12-09,Inactive
+1553,Robert,LEWIS,barbara.ramirez@company.com,2018-09-13,Lead,IT,"$85,000",,4724 Ash Blvd,Houston,OH,86551,1990-07-26,On Leave
+1596,mark,WILSON,michael.taylor@company.com,2016-06-10,Lead,HR,45000,2002,4352 Cedar Blvd,Seattle,MA,94137,1996-07-15,Active
+1393,Jessica,HERNANDEZ,jane.jones@company.com,2023-08-24,Consultant,Operations,55000,2006,5592 Main Drive,Jacksonville,TN,57785,1973-06-26,Active
+1035,nancy,Jones,michael.sanchez@company.com,2016-12-01,Consultant,Sales,85000,2009,9004 Elm Rd,Philadelphia,CO,67566,1974-06-26,Inactive
+1205,Mary,SANCHEZ,barbara.moore@company.com,2021-05-28,Software Engineer,Marketing,105000,2001,7790 Willow Lane,San Diego,,84592,1985-11-22,Inactive
+1640,jessica,JOHNSON,lisa.thomas@company.com,2021-08-20,Architect,Analytics,105000,2006,9091 Maple Way,Los Angeles,NC,,1969-03-06,Active
+1525,Susan,Lewis,alice@invalid,2024-06-09,Lead,Analytics,65000,2001,1625 Maple Court,Philadelphia,NY,,1978-12-03,Active
+1194,sarah,Thompson,patricia.taylor@company.com,2016-06-10,Lead,Operations,45000,2009,7872 Spruce Way,Los Angeles,IN,37831,1999-07-01,Inactive
+1225,Jennifer,Sanchez,mary.ramirez@company.com,2024-10-27,Consultant,IT,45000,2006,4135 Main Lane,San Diego,CO,84647,2000-04-10,On Leave
+1309,karen,RAMIREZ,patricia.lee@company.com,2028-01-01,Developer,Finance,75000,2008,5617 Elm Ave,Los Angeles,IN,61622,1974-04-26,Active
+1580,James,Williams,sarah.hernandez@company.com,2018-11-29,Analyst,Engineering,55000,2006,2601 Spruce Ave,Phoenix,VA,58030,1974-09-10,Inactive
+1030,sarah,JOHNSON,anthony.rodriguez@company.com,2022-05-08,Data Analyst,Sales,95000,2006,3670 Pine Lane,San Jose,TN,72743,1984-11-16,Active
+1238,James,Martinez,jessica@invalid,2023-11-03,Consultant,Marketing,75000,2008,6502 Main Court,,MO,72288,1990-07-27,Active
+1392,Emma,Jackson,richard.johnson@company.com,2023-08-19,Lead,Finance,35000,2001,619 Pine Ave,Indianapolis,MA,81251,1971-04-24,Inactive
+1855,michael,Taylor,michael.martinez@company.com,2021-12-20,Data Analyst,Marketing,45000,2002,9586 Ash Lane,Austin,FL,53459,1965-07-10,On Leave
+1472,Emma,Martin,RICHARD.LEWIS@COMPANY.COM,2023-09-12,Manager,Finance,35000,2007,9361 Spruce Blvd,Indianapolis,AZ,,1981-06-20,Active
+1138,linda,MARTINEZ,sarah.lewis@company.com,2020-07-03,Data Analyst,Analytics,85000,2002,9295 Oak Blvd,San Diego,VA,40358,1968-11-24,On Leave
+1603,Robert,Miller,patricia@invalid,2023-08-13,Data Analyst,HR,65000,2005,3466 Birch Blvd,Jacksonville,MD,69920,1978-12-22,Inactive
+1505,Nancy,MARTINEZ,linda.white@company.com,2019-02-01,Architect,IT,75000,2009,1010 Main St,San Jose,TX,51060,1996-08-20,Active
+1088,linda,Harris,nancy.anderson@company.com,2019-07-06,Architect,Finance,75000,2002,2629 Pine St,San Francisco,OH,58157,1979-03-08,Active
+1023,Donald,Johnson,john@invalid,2020-07-14,Architect,Sales,55000,2007,1746 Oak Ave,Columbus,MI,25293,1991-03-16,On Leave
+1091,David,Johnson,nancy.moore@company.com,2019-01-11,Architect,Analytics,45000,2006,2969 Birch Way,San Antonio,NJ,45559,1971-05-21,On Leave
+1741,Richard,Wilson,sarah.williams@company.com,2026-08-04,Developer,Analytics,65000,2003,7178 Spruce Court,San Diego,MA,55040,1968-08-31,On Leave
+1722,donald,Thomas,daniel@invalid,2022-02-10,Data Analyst,HR,95000,2008,7183 Oak Drive,Denver,IN,51535,2000-08-10,On Leave
+1374,Anthony,JONES,jennifer.hernandez@company.com,2020-12-05,Lead,Finance,95000,2002,9897 Willow Rd,,MD,63941,1965-05-21,On Leave
+1129,John,ROBINSON,DAVID.MOORE@COMPANY.COM,2021-03-20,Architect,Analytics,65000,2010,6288 Birch Lane,Indianapolis,MA,33986,1976-07-10,Active
+1462,daniel,Wilson,emma@invalid,2018-02-26,Consultant,Operations,"$35,000",2007,,Philadelphia,FL,71543,1992-11-17,Inactive
+1911,Anthony,Moore,michael.sanchez@company.com,2024-11-30,Analyst,Operations,55000,2003,,Seattle,FL,33253,1972-06-30,Active
+1114,Jessica,Brown,anthony.thomas@company.com,2021-09-28,Developer,Analytics,75000,2005,75 Maple Drive,San Jose,PA,48457,1960-11-10,Inactive
+1891,Mark,SANCHEZ,thomas@invalid,2016-05-24,Lead,Sales,105000,2001,4623 Oak Way,Phoenix,CA,18104,1998-04-27,On Leave
+1170,linda,RAMIREZ,charles.smith@company.com,2024-05-15,Data Analyst,Engineering,75000,2003,7854 Oak Drive,Chicago,MD,34515,1993-02-14,Inactive
+1343,Emma,MILLER,linda.martinez@company.com,2022-04-05,Software Engineer,IT,85000,2005,6572 Elm Blvd,San Diego,WA,73932,1979-05-15,On Leave
+1982,David,Lopez,nancy.jones@company.com,2021-04-27,Architect,Analytics,75000,,917 Willow Way,Charlotte,VA,18622,1966-11-12,Active
+1907,Jane,Wilson,susan.sanchez@company.com,2021-11-22,Manager,Analytics,35000,2006,3798 Cedar St,Jacksonville,OH,60792,1963-04-13,Inactive
+1878,Charles,Clark,mark.jackson@company.com,2027-04-26,Lead,IT,35000,2004,8043 Pine Lane,San Antonio,FL,61053,1963-05-14,Inactive
+1576,Jane,MARTIN,donald.harris@company.com,2021-01-30,Software Engineer,Marketing,105000,,341 Oak Ave,Los Angeles,MA,43598,1976-07-29,Inactive
+1643,Anthony,Lopez,patricia.johnson@company.com,2016-04-01,Developer,HR,55000,2009,8216 Birch Ave,Chicago,IL,59493,1993-10-21,Inactive
+1149,Jessica,White,robert.brown@company.com,2020-01-11,Manager,Marketing,75000,2005,5699 Maple Ave,Fort Worth,IL,24292,1971-04-29,Active
+1152,Richard,JOHNSON,richard.smith@company.com,2019-04-20,Lead,Analytics,"$55,000",2010,6 Birch Court,San Francisco,CO,26142,2000-02-17,Active
+1169,jane,Wilson,charles.white@company.com,2018-03-11,Lead,Marketing,95000,2008,,Los Angeles,IN,35384,1964-05-19,On Leave
+1380,Nancy,RAMIREZ,jennifer.anderson@company.com,2020-03-27,Software Engineer,IT,55000,2008,6185 Cedar Way,Seattle,IN,44892,1982-08-06,Active
+1903,Charles,Thompson,sarah.thomas@company.com,2019-04-01,Consultant,HR,"$65,000",2008,7380 Spruce Blvd,Denver,NC,45660,1961-03-24,On Leave
+1715,Alice,Miller,jessica.brown@company.com,2022-05-12,Lead,Engineering,65000,2001,8879 Pine Court,Phoenix,MD,82839,2001-01-06,Inactive
+1801,mark,Thomas,richard.rodriguez@company.com,2021-09-22,Lead,Sales,75000,,7148 Birch Blvd,Denver,NC,,1998-12-16,Inactive
+1092,Jennifer,Hernandez,thomas.jones@company.com,2021-01-01,Architect,Finance,65000,2003,2510 Maple Rd,Indianapolis,CA,67115,1995-07-09,Active
+1453,Linda,Martinez,james.lewis@company.com,2016-09-13,Consultant,Sales,85000,,867 Main Ave,Chicago,NC,82173,1993-03-24,On Leave
+1514,Charles,Thomas,john.anderson@company.com,2019-01-08,Consultant,Engineering,"$95,000",2005,,Seattle,OH,98935,1988-05-10,On Leave
+1085,James,JOHNSON,steven.anderson@company.com,2026-08-04,Software Engineer,Sales,55000,,6958 Birch Ave,Charlotte,MD,39456,1976-11-19,Inactive
+1376,Emma,Martinez,matthew@invalid,2023-11-25,Developer,Sales,85000,2002,2727 Willow St,Chicago,AZ,46989,1977-09-18,Active
+1086,Lisa,Ramirez,david.brown@company.com,2017-11-04,Consultant,Finance,85000,2009,5854 Birch Court,Seattle,MD,20192,1960-02-28,Active
+1224,steven,JOHNSON,anthony.lopez@company.com,2020-11-17,Consultant,IT,75000,2007,5456 Cedar Rd,Houston,TX,,1970-10-31,Active
+1791,Karen,Rodriguez,LINDA.LEWIS@COMPANY.COM,2016-07-23,Architect,HR,75000,2004,7005 Spruce Blvd,New York,NY,53895,1985-11-11,Active
+1809,Lisa,Clark,jessica.lewis@company.com,2023-11-20,Software Engineer,HR,35000,,2377 Cedar Drive,San Antonio,NY,29487,1962-05-10,Inactive
+1272,lisa,Ramirez,emma.white@company.com,2018-02-17,Lead,Finance,55000,2008,2621 Oak Blvd,Boston,MO,86549,1964-05-20,On Leave
+1823,Karen,Lee,jennifer.davis@company.com,2017-11-17,Software Engineer,Analytics,75000,2003,1802 Oak Drive,San Francisco,TX,49614,1991-04-07,Inactive
+1406,Jennifer,Sanchez,james.miller@company.com,2020-06-20,Developer,HR,45000,,2439 Pine Rd,Phoenix,PA,26699,1992-10-21,Inactive
+1812,Jane,Ramirez,daniel.moore@company.com,2023-06-05,Analyst,Operations,65000,2002,4766 Cedar Ave,San Antonio,WA,91382,1977-03-06,On Leave
+1538,Donald,Martinez,sarah.lopez@company.com,2020-11-02,Lead,IT,45000,2008,2470 Cedar Ave,Charlotte,IL,79206,1982-10-15,On Leave
+1256,Jane,Lewis,patricia.johnson@company.com,2027-03-24,Architect,Marketing,75000,2005,2761 Willow Court,San Antonio,IL,57114,1971-12-11,Active
+1786,Sarah,CLARK,SARAH.CLARK@COMPANY.COM,2021-05-06,Architect,HR,75000,2006,3804 Spruce Court,Los Angeles,IN,82674,1978-08-15,On Leave
+1623,Anthony,Anderson,richard.ramirez@company.com,2021-09-13,Lead,Sales,105000,2008,1111 Birch Drive,Columbus,CO,11957,1991-09-20,Inactive
+1963,barbara,Martin,susan.harris@company.com,2024-10-03,Consultant,Marketing,105000,2008,7634 Elm Drive,San Diego,CA,67823,1989-12-09,Inactive
+1270,Richard,Martinez,daniel.robinson@company.com,2022-04-16,Manager,HR,35000,,8400 Pine Ave,New York,MI,91785,1972-07-25,On Leave
+1566,Linda,LEWIS,lisa.jackson@company.com,2022-05-25,Architect,HR,85000,2002,3205 Maple Drive,Charlotte,PA,12230,1989-12-18,Active
+1515,Robert,Sanchez,daniel@invalid,2021-10-10,Software Engineer,HR,"$45,000",2010,3073 Elm Drive,Columbus,,69163,1973-05-25,Inactive
+1669,John,Jones,nancy.martinez@company.com,2024-02-12,Consultant,Sales,35000,2008,8827 Birch Rd,Denver,MA,19308,1976-05-11,On Leave
+1253,nancy,Clark,daniel.harris@company.com,2016-06-14,Consultant,Operations,95000,2004,6541 Spruce Ave,Houston,WA,,1964-07-30,On Leave
+1606,Patricia,Jackson,EMMA.BROWN@COMPANY.COM,2018-02-02,Data Analyst,Operations,105000,2006,1431 Willow Court,Chicago,NC,71180,1971-08-17,On Leave
+1832,Lisa,Lee,james.lee@company.com,2018-05-19,Data Analyst,Operations,65000,2008,4183 Elm Ave,San Diego,NJ,24725,1975-11-18,Active
+1125,Charles,Thompson,thomas.lewis@company.com,2023-05-31,Architect,HR,35000,2010,7422 Spruce Lane,Dallas,PA,83069,1964-05-12,Inactive
+1528,Alice,Lee,mary.ramirez@company.com,2016-10-15,Lead,Operations,45000,,1908 Ash Lane,Denver,FL,86794,1982-02-16,On Leave
+1444,David,White,michael.jackson@company.com,2021-01-26,Lead,Finance,65000,2001,6791 Birch Court,New York,IN,96753,1998-11-08,Active
+1325,patricia,WILLIAMS,karen.thompson@company.com,2024-02-01,Manager,Operations,105000,2007,4211 Maple Ave,San Antonio,IL,34369,1969-01-15,Inactive
+1002,Alice,Taylor,daniel.moore@company.com,2020-12-29,Manager,Engineering,95000,2002,2366 Oak Rd,San Francisco,AZ,59965,1998-12-21,On Leave
+1563,Steven,Wilson,anthony.miller@company.com,2020-03-14,Manager,Sales,95000,2006,6840 Willow Rd,Chicago,TN,63523,1987-12-13,Active
+1223,thomas,Hernandez,alice.miller@company.com,2017-02-27,Manager,Finance,35000,2006,4493 Spruce Rd,Philadelphia,IN,41180,1975-10-05,Inactive
+1964,Patricia,Lopez,robert@invalid,2018-02-25,Analyst,IT,"$55,000",2007,3560 Birch Rd,San Antonio,IL,19410,1966-07-08,Active
+1597,Karen,Williams,karen.thompson@company.com,2024-12-10,Architect,IT,75000,2002,1142 Spruce Court,Los Angeles,GA,54703,1997-05-07,On Leave
+1166,Mary,HERNANDEZ,nancy.harris@company.com,2017-07-25,Data Analyst,Analytics,105000,2001,3983 Birch Rd,Columbus,MD,72453,1963-08-04,Active
+1361,emma,TAYLOR,matthew.sanchez@company.com,2022-02-26,Analyst,IT,35000,2009,9732 Birch Drive,New York,GA,46901,1972-06-21,On Leave
+1805,Nancy,White,james.lewis@company.com,2023-03-15,Lead,Finance,85000,2006,4138 Elm Blvd,San Diego,VA,32305,1996-11-21,Inactive
+1520,karen,Davis,john.wilson@company.com,2022-02-02,Data Analyst,IT,55000,2004,2289 Oak Way,Phoenix,PA,83929,1961-06-06,On Leave
+1755,Daniel,JOHNSON,robert.thompson@company.com,2023-08-12,Analyst,HR,45000,2001,9679 Spruce St,Los Angeles,MO,74832,1971-03-10,On Leave
+1301,Patricia,Rodriguez,jennifer.williams@company.com,2019-08-17,Data Analyst,Sales,"$105,000",2010,2662 Ash Court,San Diego,OH,82036,1986-08-05,Active
+1124,richard,RODRIGUEZ,daniel.smith@company.com,2024-03-08,Analyst,HR,95000,2008,7291 Ash Court,San Francisco,NJ,27436,1971-07-20,On Leave
+1441,daniel,Anderson,charles.thomas@company.com,2017-09-14,Analyst,Operations,95000,2001,661 Elm Lane,,TX,39662,1963-09-16,Active
+1672,Thomas,Thomas,matthew.lewis@company.com,2019-12-22,Analyst,Finance,35000,2002,3971 Birch Rd,Fort Worth,,,1994-01-12,On Leave
+1675,james,Miller,patricia.thomas@company.com,2021-07-28,Software Engineer,Finance,105000,2006,7587 Main Rd,Boston,NY,64124,1979-03-06,Active
+1772,James,BROWN,jessica.williams@company.com,2019-08-20,Consultant,Sales,85000,2008,8203 Maple Rd,Austin,IL,13772,2000-08-02,Inactive
+1582,Mark,Brown,matthew.johnson@company.com,2022-11-19,Manager,Engineering,"$35,000",2006,2956 Main Ave,Philadelphia,TN,13833,1981-09-10,Inactive
+1430,james,Davis,daniel.hernandez@company.com,2018-07-03,Lead,Engineering,95000,2010,6057 Birch Ave,Austin,IL,68200,1985-01-10,On Leave
+1025,Linda,Anderson,nancy.moore@company.com,2024-02-02,Architect,Analytics,45000,2003,3466 Willow Rd,Indianapolis,,,1983-05-19,Active
+1383,Robert,Lopez,linda.thompson@company.com,2025-01-24,Developer,Sales,105000,2003,3053 Spruce Ave,San Francisco,CO,88054,1998-07-16,Active
+1447,richard,Jones,jessica.brown@company.com,2019-05-02,Architect,Marketing,105000,2008,7751 Spruce Ave,Austin,FL,63537,1977-01-16,On Leave
+2006,karen,Thomas,emma.lopez@company.com,2017-08-24,Lead,Analytics,65000,2002,671 Willow Lane,Phoenix,OH,87601,1995-09-08,Active
+1966,Barbara,Clark,steven.jones@company.com,2018-10-23,Developer,HR,35000,2006,2274 Ash Way,Columbus,CA,55143,1965-07-30,Active
+1136,Jane,Wilson,michael.sanchez@company.com,2019-01-03,Developer,Marketing,55000,2002,9194 Elm Way,Austin,WA,18601,1987-05-05,Active
+1699,Mary,TAYLOR,jessica.robinson@company.com,2020-01-09,Manager,Operations,95000,,8542 Spruce Ave,Phoenix,CA,39307,1997-06-18,Active
+1476,anthony,MOORE,mary.lee@company.com,2027-08-21,Data Analyst,Sales,85000,,8653 Oak Blvd,New York,NC,45859,1969-01-18,Active
+1375,James,Hernandez,john.williams@company.com,2021-09-26,Manager,Sales,75000,2006,5824 Pine St,Dallas,CA,68780,1993-12-25,Active
+1602,Barbara,Jones,KAREN.LEWIS@COMPANY.COM,2016-11-24,Lead,IT,45000,2009,631 Main Blvd,Austin,TN,47438,1981-02-08,Active
+1620,Jennifer,WILLIAMS,MARY.RAMIREZ@COMPANY.COM,2017-09-25,Manager,IT,105000,2004,5022 Main Ave,San Diego,MI,69135,1988-06-05,Active
+1399,Donald,Miller,thomas.martin@company.com,2023-11-15,Manager,IT,85000,2009,3774 Birch St,San Jose,OH,28662,1976-01-20,Active
+1084,Karen,LOPEZ,nancy.wilson@company.com,2020-02-26,Developer,IT,95000,2007,5010 Birch Ave,Jacksonville,FL,32310,1967-09-05,On Leave
+1825,jennifer,White,DONALD.ROBINSON@COMPANY.COM,2021-02-02,Software Engineer,Finance,105000,2007,2841 Willow Court,Boston,MI,92864,1985-08-02,On Leave
+1384,karen,Thomas,lisa.harris@company.com,2021-07-19,Architect,HR,45000,2008,5615 Main Blvd,Houston,OH,81016,1992-02-17,Active
+1535,Lisa,Rodriguez,anthony.anderson@company.com,2024-09-30,Data Analyst,Marketing,35000,2006,9420 Main Way,San Antonio,MO,68569,1978-02-13,Inactive
+1856,Patricia,Jones,david.lopez@company.com,2023-10-31,Software Engineer,HR,"$105,000",,6219 Oak Blvd,Fort Worth,IL,,1991-03-09,Inactive
+1629,Patricia,Taylor,steven.brown@company.com,2019-11-27,Architect,HR,85000,2005,2560 Main Court,Seattle,MD,23127,1962-07-28,Active
+1828,karen,WILSON,mary.johnson@company.com,2018-10-10,Software Engineer,Engineering,45000,2005,,Los Angeles,GA,67115,1999-12-01,Inactive
+1984,Karen,MOORE,nancy.thomas@company.com,2024-06-13,Manager,Engineering,65000,2002,9340 Ash St,Chicago,,,1967-01-11,Active
+1652,Linda,Hernandez,ALICE.MARTINEZ@COMPANY.COM,2019-07-08,Lead,Analytics,95000,2002,2769 Main Court,Fort Worth,MA,12665,1969-12-17,Active
+1347,Michael,MARTIN,linda.clark@company.com,2017-02-12,Architect,IT,85000,,2338 Birch Way,Dallas,NJ,49748,1993-04-14,Active
+1481,Linda,Brown,alice.taylor@company.com,2021-02-15,Consultant,Sales,75000,2010,5588 Main St,Boston,CA,89090,1988-05-31,Inactive
+1590,Robert,Thompson,mary.thompson@company.com,2018-04-16,Data Analyst,Operations,45000,2002,6241 Birch Lane,Seattle,IN,79387,1997-02-06,Inactive
+1293,Lisa,Lopez,emma.moore@company.com,2016-11-16,Manager,Finance,65000,2002,9529 Birch St,Denver,MD,72275,1973-10-22,On Leave
+1474,matthew,Taylor,robert.clark@company.com,2024-04-15,Software Engineer,Finance,"$85,000",,6013 Cedar Lane,San Antonio,PA,49794,1989-05-22,Inactive
+1046,Michael,Lee,james.lewis@company.com,2020-11-02,Developer,Engineering,105000,2002,9124 Cedar Way,Charlotte,IN,42533,1995-11-11,Inactive
+1835,Matthew,MILLER,anthony.smith@company.com,2018-07-15,Data Analyst,IT,55000,2009,6664 Ash Ave,Chicago,,99177,1966-10-20,On Leave
+1090,Lisa,Martinez,steven.smith@company.com,2022-06-18,Software Engineer,Sales,55000,2008,9499 Elm St,Los Angeles,NC,91840,1976-09-05,Active
+1764,Linda,CLARK,john.miller@company.com,2021-10-07,Analyst,Finance,"$95,000",2004,1531 Spruce St,San Francisco,PA,34538,1962-08-18,Active
+1218,Emma,Jones,james.hernandez@company.com,2024-09-10,Architect,Operations,95000,2004,3776 Elm Blvd,Boston,MD,40018,1980-05-08,On Leave
+2020,Jennifer,Robinson,charles.jones@company.com,2024-03-07,Consultant,Sales,"$55,000",2005,743 Elm Way,Denver,NY,33929,1995-07-24,On Leave
+1443,Daniel,Miller,emma.smith@company.com,2022-04-17,Lead,Analytics,35000,,9752 Maple Ave,Chicago,MA,12114,1969-02-18,Inactive
+1993,Jennifer,Harris,linda.jackson@company.com,2018-07-01,Manager,Marketing,65000,2005,2507 Cedar Rd,Jacksonville,FL,59079,1962-06-01,Inactive
+1368,Richard,Robinson,barbara@invalid,2021-05-06,Architect,Finance,105000,2005,4590 Willow Lane,San Diego,TX,62968,1989-01-29,Active
+1245,Nancy,Taylor,matthew.thomas@company.com,2019-10-06,Consultant,Engineering,75000,2004,6504 Willow Lane,,FL,63435,1983-07-07,On Leave
+1302,Jessica,Brown,susan.martinez@company.com,2017-10-21,Lead,Sales,105000,2006,6250 Spruce Drive,Indianapolis,TX,58031,1983-11-26,On Leave
+1193,Sarah,Ramirez,emma.martin@company.com,2026-10-10,Data Analyst,Finance,75000,2002,7628 Pine St,Indianapolis,NJ,16190,1991-07-11,On Leave
+1627,Emma,Johnson,MICHAEL.DAVIS@COMPANY.COM,2026-09-30,Data Analyst,Engineering,35000,2001,7483 Pine Ave,San Diego,GA,14762,1960-10-12,Active
+1647,John,Thompson,mary.harris@company.com,2016-10-13,Consultant,Analytics,35000,2006,1704 Oak Court,Denver,,10510,1969-07-24,Active
+1450,Anthony,Taylor,steven.clark@company.com,2019-01-28,Consultant,Engineering,65000,2004,5918 Ash Court,Jacksonville,NY,44927,1989-05-08,On Leave
+1340,Donald,Williams,steven@invalid,2024-10-02,Software Engineer,Marketing,85000,2008,203 Birch St,Austin,IN,87272,1977-09-12,Inactive
+1356,steven,Davis,susan.martin@company.com,2021-12-28,Software Engineer,Engineering,35000,2005,7418 Spruce Way,Dallas,WA,92729,1980-04-16,Active
+1234,Mark,Lee,michael.thompson@company.com,2017-06-13,Developer,Sales,95000,2003,,Jacksonville,NC,72114,1972-06-05,Active
+1267,Charles,SANCHEZ,sarah.lewis@company.com,2017-09-19,Manager,Finance,35000,2007,5604 Cedar Blvd,Dallas,NC,46683,1985-08-24,On Leave
+1896,Mark,Thomas,MARY.HERNANDEZ@COMPANY.COM,2020-10-17,Architect,Marketing,55000,,6943 Elm St,Austin,AZ,14933,1976-02-03,Active
+1912,Barbara,Brown,mary.brown@company.com,2018-09-20,Data Analyst,Finance,75000,2003,72 Main Way,Chicago,FL,21780,1984-02-25,Inactive
+1718,Matthew,Lee,mary.hernandez@company.com,2016-08-31,Analyst,Finance,75000,2005,2847 Birch Drive,Boston,MD,35771,1984-08-21,On Leave
+1698,Jennifer,Robinson,charles.jones@company.com,2024-03-07,Consultant,Sales,"$55,000",2005,743 Elm Way,Denver,NY,33929,1995-07-24,On Leave
+1919,richard,Jackson,karen.brown@company.com,2019-06-19,Manager,Marketing,65000,2010,9776 Oak Rd,San Jose,MO,64539,1995-12-30,On Leave
+1496,Steven,Smith,john.martinez@company.com,2026-08-07,Lead,Marketing,105000,2001,9612 Birch Drive,Los Angeles,OH,31792,1974-09-13,Active
+1922,Richard,Jones,karen.anderson@company.com,2017-02-07,Developer,HR,65000,,2745 Cedar Way,Jacksonville,NY,91296,1981-04-24,Inactive
+1420,Patricia,Johnson,susan@invalid,2024-09-08,Architect,Marketing,55000,2001,1383 Pine Ave,San Antonio,AZ,76110,1973-01-31,Inactive
+1099,Anthony,Sanchez,steven.wilson@company.com,2018-07-21,Lead,Sales,85000,2009,1053 Elm St,Boston,MA,73329,1972-04-17,On Leave
+1732,David,JOHNSON,karen.rodriguez@company.com,2019-12-10,Manager,Engineering,95000,2001,8512 Spruce Rd,San Diego,VA,86948,1998-02-15,On Leave
+1746,Lisa,Ramirez,charles.hernandez@company.com,2020-12-20,Developer,Finance,45000,2005,8443 Willow Rd,San Jose,TN,17715,1994-12-28,On Leave
+1659,Barbara,Sanchez,anthony@invalid,2018-12-12,Lead,Marketing,105000,2003,,Denver,AZ,70642,1994-10-29,Active
+1550,Charles,Lee,daniel.taylor@company.com,2023-08-23,Manager,Marketing,45000,2008,5823 Elm St,Denver,PA,75824,1997-01-04,On Leave
+1203,Patricia,Lewis,STEVEN.HERNANDEZ@COMPANY.COM,2022-06-14,Analyst,IT,85000,2009,8387 Elm Ave,,MI,,1963-04-22,Inactive
+1018,Jennifer,Rodriguez,james.thomas@company.com,2021-01-09,Manager,Finance,65000,2004,8376 Maple Rd,Columbus,VA,,1972-06-05,Inactive
+1469,Karen,MARTIN,barbara.jackson@company.com,2023-07-10,Software Engineer,Sales,85000,2008,2371 Maple Way,,MD,86963,1986-03-17,On Leave
+1321,daniel,Taylor,robert.miller@company.com,2022-06-10,Data Analyst,Engineering,55000,,9157 Spruce Ave,San Diego,WA,32934,1965-02-19,On Leave
+1985,James,Martin,mary.moore@company.com,2018-05-03,Software Engineer,Engineering,105000,2008,8129 Oak Way,Philadelphia,TX,,1999-03-03,Active
+1859,Donald,Martin,jessica.thomas@company.com,2023-09-01,Data Analyst,Engineering,95000,2006,4230 Main Court,San Francisco,NJ,12757,1963-09-18,Active
+1914,John,Ramirez,donald.anderson@company.com,2027-01-30,Developer,Finance,85000,2004,9957 Cedar Lane,Los Angeles,WA,42908,1980-03-17,Inactive
+1363,David,Rodriguez,patricia.miller@company.com,2018-02-25,Manager,Operations,55000,2003,3040 Birch St,Fort Worth,AZ,16794,1989-05-26,Inactive
+1838,michael,Thomas,RICHARD.SANCHEZ@COMPANY.COM,2016-11-07,Developer,Engineering,55000,2010,823 Elm St,San Francisco,MI,46707,1989-10-14,On Leave
+1308,Nancy,CLARK,linda@invalid,2027-10-14,Developer,Finance,55000,2006,673 Oak Blvd,Phoenix,MI,96202,1970-07-26,On Leave
+1631,Michael,LEE,linda.brown@company.com,2017-11-11,Developer,IT,65000,,3139 Pine Ave,Denver,PA,62931,1975-12-19,On Leave
+1246,Mark,Lewis,lisa@invalid,2018-09-21,Manager,Engineering,65000,2003,8450 Ash Court,Chicago,NJ,50550,1975-05-21,Inactive
+1097,Anthony,Thompson,barbara.lee@company.com,2020-01-04,Architect,Engineering,55000,2010,1866 Main Lane,Boston,WA,21520,1979-09-03,Active
+1723,Steven,Anderson,thomas.johnson@company.com,2021-06-08,Manager,Operations,35000,2008,488 Pine St,New York,CA,22727,1968-11-14,Active
+1486,Jane,Brown,matthew.harris@company.com,2021-01-31,Architect,Sales,85000,,2935 Maple Way,San Jose,MD,15365,1991-07-06,On Leave
+1808,Steven,Harris,karen.anderson@company.com,2022-03-18,Architect,Sales,55000,2008,9002 Main Lane,Philadelphia,FL,30307,1991-08-18,Inactive
+1041,Susan,Clark,david.harris@company.com,2021-03-12,Developer,Finance,45000,2003,3711 Birch St,Dallas,TN,92463,1984-04-14,Active
+1887,lisa,THOMAS,EMMA.LEWIS@COMPANY.COM,2016-09-03,Consultant,Sales,55000,,4810 Willow Blvd,,IN,14300,2000-12-27,Inactive
+1060,Jessica,Sanchez,barbara.moore@company.com,2020-11-15,Data Analyst,Marketing,105000,,8478 Birch Blvd,,IN,63189,1965-04-30,On Leave
+1783,jessica,DAVIS,karen.martinez@company.com,2017-03-03,Architect,Sales,45000,2010,8002 Maple Drive,,NJ,89376,1988-07-28,Inactive
+1695,Jennifer,SMITH,lisa.lee@company.com,2026-08-12,Lead,HR,45000,2008,4481 Pine Way,Denver,NC,72996,2000-08-22,On Leave
+1534,john,Davis,susan.smith@company.com,2019-06-08,Lead,Analytics,85000,2006,5759 Elm Ave,Charlotte,IN,25011,1988-05-09,On Leave
+1467,Richard,THOMAS,nancy.brown@company.com,2018-03-23,Consultant,Marketing,95000,2002,1849 Elm Blvd,Columbus,MA,70229,1963-02-28,Active
+1045,Patricia,Martinez,john.davis@company.com,2020-05-15,Developer,Engineering,95000,,2452 Oak Blvd,Chicago,NY,46260,1966-10-31,On Leave
+1382,Steven,Taylor,charles.smith@company.com,2021-01-16,Data Analyst,HR,"$85,000",2006,7829 Main Drive,Philadelphia,OH,61085,1976-09-15,Inactive
+1067,Matthew,LOPEZ,lisa.davis@company.com,2023-10-19,Developer,Finance,"$85,000",2010,3874 Oak Lane,Fort Worth,VA,79188,1978-06-04,Inactive
+2001,John,Ramirez,donald.anderson@company.com,2027-01-30,Developer,Finance,85000,2004,9957 Cedar Lane,Los Angeles,WA,42908,1980-03-17,Inactive
+1624,Jennifer,Jones,mary.thompson@company.com,2021-09-09,Manager,HR,45000,2004,9793 Cedar Lane,Fort Worth,FL,87151,1984-08-04,Inactive
+1177,Robert,Jones,LINDA.CLARK@COMPANY.COM,2018-07-29,Lead,Analytics,105000,2010,,San Francisco,NJ,84528,1964-02-13,On Leave
+1204,James,JONES,barbara.harris@company.com,2021-08-15,Architect,Sales,45000,,958 Oak Way,Jacksonville,,79007,1968-05-20,On Leave
+1135,Susan,MARTINEZ,michael.moore@company.com,2018-03-23,Data Analyst,Marketing,65000,,3694 Oak Lane,Columbus,MO,96929,1988-05-11,Inactive
+1797,Jane,Lee,alice@invalid,2020-06-07,Developer,Engineering,95000,2010,1286 Maple Lane,Seattle,NY,25834,1991-12-08,On Leave
+1840,Barbara,Wilson,nancy@invalid,2018-06-14,Analyst,Sales,"$55,000",2003,1167 Ash Rd,Los Angeles,GA,,1994-01-29,Active
+1459,sarah,Moore,matthew.anderson@company.com,2021-10-25,Lead,Sales,105000,2006,1333 Spruce Way,Los Angeles,WA,38386,1980-08-07,On Leave
+1614,Barbara,Harris,mark.miller@company.com,2027-06-12,Architect,Analytics,45000,2001,9269 Spruce Lane,Fort Worth,MI,52253,1996-07-11,Inactive
+1233,Linda,Johnson,sarah.smith@company.com,2016-07-05,Analyst,Sales,105000,2010,659 Pine Lane,Denver,CA,11287,1970-10-10,Inactive
+1222,Jennifer,Harris,susan.anderson@company.com,2017-06-06,Lead,IT,105000,2007,3897 Cedar Ave,Philadelphia,TN,47718,1970-05-24,On Leave
+1004,steven,Thompson,david.anderson@company.com,2016-04-09,Manager,Marketing,"$95,000",2002,6437 Willow Lane,Charlotte,TX,10515,1987-07-08,On Leave
+1409,Steven,Jones,jennifer.robinson@company.com,2018-08-23,Analyst,Operations,105000,2007,5618 Cedar Ave,New York,VA,62512,1978-08-12,Active
+1081,Robert,Jackson,david.anderson@company.com,2019-06-24,Data Analyst,Operations,65000,2009,4769 Maple Drive,Boston,GA,47445,1992-03-09,On Leave
+1047,charles,Moore,john.martin@company.com,2024-06-24,Architect,Engineering,55000,,7217 Maple Way,Dallas,IN,31850,1987-02-13,Inactive
+1144,Lisa,Sanchez,robert.clark@company.com,2020-11-27,Architect,Engineering,55000,2003,1726 Oak Lane,Seattle,CO,56323,1990-12-27,On Leave
+1286,mark,MILLER,daniel.miller@company.com,2016-05-19,Software Engineer,HR,"$35,000",,1645 Maple Court,Boston,WA,19704,1983-08-09,Inactive
+1559,Emma,Miller,matthew@invalid,2022-12-13,Manager,Marketing,85000,,6943 Oak Rd,Seattle,,52592,1971-04-12,Active
+1717,Mark,Williams,BARBARA.SANCHEZ@COMPANY.COM,2017-12-08,Data Analyst,Analytics,"$45,000",2005,2357 Willow Rd,San Diego,MA,87818,1982-06-19,On Leave
+1423,robert,Smith,DANIEL.WILLIAMS@COMPANY.COM,2018-05-06,Software Engineer,Marketing,85000,2010,8696 Pine Court,Philadelphia,CO,15275,1995-04-16,Inactive
+1733,Mark,Thompson,richard.sanchez@company.com,2027-09-25,Architect,Marketing,45000,,2387 Main Drive,Los Angeles,MA,,1985-06-16,Active
+1455,jane,Harris,charles.smith@company.com,2024-06-28,Software Engineer,Operations,"$45,000",2001,7068 Maple Blvd,San Diego,OH,89649,1977-01-28,Active
+1433,Richard,WILSON,daniel.anderson@company.com,2020-06-25,Lead,Analytics,65000,2006,1755 Main St,Fort Worth,CO,79002,1993-07-27,Inactive
+1719,Robert,JOHNSON,patricia.davis@company.com,2019-09-18,Consultant,Engineering,"$35,000",2008,5715 Cedar Lane,Philadelphia,CA,65238,1994-04-24,Active
+1548,Patricia,CLARK,donald.clark@company.com,2016-11-03,Lead,Analytics,55000,,5503 Oak Rd,Phoenix,NY,16907,1977-05-02,Active
+1131,John,Brown,jane@invalid,2020-07-03,Data Analyst,Sales,75000,2009,8434 Ash Drive,Denver,NJ,51534,1965-08-03,Active
+1120,michael,Lewis,charles.martin@company.com,2023-11-20,Consultant,Finance,95000,2007,8672 Maple Court,Boston,TX,66361,1993-02-02,Inactive
+1646,emma,RAMIREZ,sarah.white@company.com,2018-10-05,Developer,HR,105000,2002,2598 Ash Drive,Indianapolis,IL,46489,1972-05-04,Inactive
+1814,mary,Ramirez,david.harris@company.com,2017-08-09,Manager,Operations,55000,2001,596 Ash Lane,San Diego,OH,35640,1980-08-06,On Leave
+1767,Michael,Wilson,donald.sanchez@company.com,2027-05-13,Software Engineer,Engineering,"$75,000",2003,8566 Willow Lane,Charlotte,FL,11883,1992-07-30,Inactive
+1175,Mary,MOORE,donald.lewis@company.com,2019-10-29,Software Engineer,Operations,55000,,2600 Elm Way,Columbus,NJ,42684,1973-02-18,On Leave
+1354,Linda,Miller,jessica.williams@company.com,2023-04-27,Manager,HR,75000,2002,,San Diego,CA,30706,1983-07-14,Active
+1442,Charles,Davis,jane.thomas@company.com,2016-07-10,Consultant,Marketing,105000,2002,5994 Spruce Blvd,Boston,TX,52130,1982-12-23,Active
+1865,Emma,Harris,robert.hernandez@company.com,2021-03-25,Lead,Finance,95000,2008,606 Birch Ave,San Antonio,MI,93499,1992-12-06,Inactive
+1171,Nancy,Thomas,lisa.wilson@company.com,2022-03-25,Manager,Finance,85000,,3961 Ash Rd,Jacksonville,PA,12133,1980-11-14,Active
+1740,Linda,Lewis,matthew.smith@company.com,2016-10-07,Lead,HR,75000,2001,9943 Elm Court,Seattle,FL,60573,2000-08-13,On Leave
+1499,Anthony,Thompson,jennifer.ramirez@company.com,2019-09-27,Consultant,IT,65000,2003,6263 Main Lane,Dallas,IN,49668,1971-08-23,Active
+1867,Michael,Miller,linda.miller@company.com,2024-11-05,Data Analyst,Analytics,105000,2003,4063 Cedar Lane,Fort Worth,NJ,33349,1997-03-12,Inactive
+1836,karen,Thomas,emma.lopez@company.com,2017-08-24,Lead,Analytics,65000,2002,671 Willow Lane,Phoenix,OH,87601,1995-09-08,Active
+1266,Richard,Wilson,anthony.lee@company.com,2023-01-15,Architect,Marketing,55000,2004,,Phoenix,IN,70661,1960-03-16,Inactive
+1533,Alice,Johnson,jane.lewis@company.com,2021-10-22,Lead,Engineering,75000,2008,5482 Ash St,New York,NY,75701,1997-08-09,Active
+1480,Emma,Davis,patricia.moore@company.com,2019-05-28,Lead,Marketing,45000,2003,6215 Oak Way,Phoenix,CA,43730,1981-11-03,On Leave
+1123,Mary,Taylor,matthew.thompson@company.com,2016-07-19,Software Engineer,Sales,105000,2009,6134 Oak Way,Charlotte,MD,93089,1990-03-22,Active
+1021,Thomas,Wilson,jessica.lopez@company.com,2022-05-28,Consultant,HR,45000,,3602 Maple St,,CA,94696,1996-02-15,Active
+1968,Jane,Robinson,james.anderson@company.com,2017-04-19,Data Analyst,IT,75000,2010,4458 Spruce Rd,Seattle,FL,92335,1987-11-26,Active
+1335,susan,Robinson,alice.moore@company.com,2024-04-05,Architect,HR,"$65,000",2006,5705 Willow St,New York,MA,94126,1980-01-14,Active
+2014,anthony,Anderson,charles.johnson@company.com,2022-10-04,Lead,IT,55000,2009,3029 Birch Ave,Chicago,AZ,39811,1986-09-16,On Leave
+2016,Susan,TAYLOR,anthony.anderson@company.com,2021-03-23,Lead,Engineering,75000,2001,1302 Main Blvd,Dallas,VA,17328,1966-07-16,On Leave
+1139,Matthew,Taylor,alice.martin@company.com,2017-12-29,Lead,Analytics,45000,,2674 Spruce Blvd,Los Angeles,NC,61719,1973-05-30,Inactive
+1834,daniel,WILLIAMS,john.rodriguez@company.com,2023-09-23,Analyst,HR,105000,2004,9826 Elm Court,New York,AZ,60663,1993-02-20,Inactive
+1920,Robert,Smith,richard@invalid,2021-05-28,Lead,Finance,55000,2010,615 Cedar St,San Antonio,NY,,2000-08-05,On Leave

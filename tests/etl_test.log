@@ -1,0 +1,33 @@
+ETL Test Log
+Project: employee-etl
+Date: 2026-02-04
+
+1) Run cleaning script
+Command:
+  python scripts/clean_and_write.py
+Output:
+  Wrote cleaned data to output/employees_clean.csv with 970 rows
+
+2) Verify output file exists and row count
+Command:
+  python -c "import csv; print(sum(1 for _ in open('output/employees_clean.csv'))-1)"
+Expected output: 970
+Observed: 970
+
+3) Containers (docker-compose ps)
+Observed services (abbreviated):
+  jupyter        local-pyspark-351:latest   Up
+  postgres       postgres:15-alpine         Up (port 5432)
+  spark-master   apache/spark:3.5.1         Up (ports 7077,8080,4040)
+  spark-worker   apache/spark:3.5.1         Up (port 8081)
+
+4) Git commit & push
+Command:
+  git commit -m "employee etl: initial commit"
+  git push -u origin main
+Result:
+  Commit created locally and pushed to https://github.com/Naman2206/Employee-ETL
+
+Notes:
+- The cleaning script performs basic normalization: name/title-casing, email lowercasing, salary cleaning, date parsing, age/tenure calculation, salary bands, and timestamps.
+- For large datasets, avoid converting entire Spark DataFrames to pandas; use Spark JDBC or chunked writes to Postgres.
